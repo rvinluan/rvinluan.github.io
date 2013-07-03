@@ -1,0 +1,141 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ul, ol, dl {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+body {
+	font-size: 18px;
+	font-family: "Source Sans Pro";
+	text-rendering: optimizeLegibility;
+}
+
+.header {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-color: white;
+	padding: 5px 30px 20px 30px;
+	font-size: 2em;
+	text-align: center;
+	float:left;
+	width: 30%;
+	height: 100%;
+	position: fixed;
+}
+
+
+.header p {
+	font-size: 0.4em;
+}
+
+.header p a {
+	text-decoration: underline;
+}
+
+.palette-title {
+	font-style: italic;
+}
+
+.header .color-button {
+	display: block;
+	margin-top: 0.5em;
+	font-weight: bold;
+	text-decoration: none; 
+}
+
+.about {
+	width: 180px;
+	margin: 3em auto 10em auto;
+	line-height: 1.4em;
+}
+
+.who {
+	text-align: center;
+	font-size: 0.3em;
+	text-decoration: underline;
+}
+
+#articles-list {
+	float: right;
+	width: 70%;
+}
+
+#articles-list a {
+	color: inherit;
+}
+
+.dummy-post {
+	height: 100px;
+}
+
+article {
+	font-weight: 100;
+	padding: 1.4em;
+	background-repeat: no-repeat;
+	background-position: top right;
+	max-height: 55px;
+}
+
+article .title {
+	font-weight: 400;
+	font-size: 1.4em;
+	max-width: 90%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+article .subtitle {
+	font-weight: 100;
+	letter-spacing: normal;
+	margin-top: 0.2em;
+	font-size: .9em;
+	max-width: 90%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.dark {
+	color: #eee;
+	letter-spacing: 0.1em;
+	background-position: right -110px;
+}
+
+.light {
+	color: #222;
+	background-position: right 0px;
+}
+
+
+/* background icons */
+/*
+article.music {
+	background-image: url('../imgs/music.png');
+}
+
+article.video {
+	background-image: url('../imgs/video.png');
+}
+
+article.game {
+	background-image: url('../imgs/games.png');
+}
+
+article.design {
+	background-image: url('../imgs/design.png');
+}
+
+article.other {
+	background-image: url('../imgs/other.png');
+}
+*/

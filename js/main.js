@@ -66,7 +66,7 @@ etc.findLargest = function(array) {
 etc.getPalette = function() {
 	$.getJSON("http://www.colourlovers.com/api/palettes/top?jsonCallback=?", {
 		numResults: 1,
-		resultOffset: parseInt(Math.random() * 500, 10),
+		resultOffset: parseInt(Math.random() * 100, 10),
 		showPaletteWidths: 1
 	}, function(json) {
 		if(json[0].colors.length < 5) {

@@ -42,6 +42,7 @@
 				    <h2>{{ page.subtitle }}</h2>
 			    {% endunless %}
 		    {% endunless %}
+		    <span class="date">{{page.date | date: "%B %d, %Y" }}</span>
 	    	{{ content }}
 	    </div>
 </body>

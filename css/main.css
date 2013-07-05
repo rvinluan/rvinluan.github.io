@@ -47,9 +47,12 @@ body {
 
 .header .color-button {
 	display: block;
-	margin-top: 0.5em;
+	margin: 0.5em auto 0 auto;
 	font-weight: bold;
-	text-decoration: none; 
+	text-decoration: none;
+	padding: 0.6em;
+	border-radius: 5px;
+	width: 200px;
 }
 
 .about {

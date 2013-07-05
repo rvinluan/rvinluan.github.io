@@ -107,7 +107,7 @@ etc.changeColors = function(palette, title, url) {
 			flavors[i].removeClass('dark').addClass('light');
 		} else {
 			flavors[i].removeClass('light').addClass('dark');
-			$('.color-button').css('color','#'+palette[i]);
+			$('.color-button').css('background-color','#'+palette[i]).removeClass('light').addClass('dark');
 		}
 
 		flavors[i].animate({backgroundColor: '#'+palette[i]}, 200*(i+1));

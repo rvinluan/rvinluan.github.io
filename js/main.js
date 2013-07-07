@@ -110,7 +110,8 @@ etc.changeColors = function(palette, title, url) {
 			$('.color-button').css('background-color','#'+palette[i]).removeClass('light').addClass('dark');
 		}
 
-		flavors[i].animate({backgroundColor: '#'+palette[i]}, 100*(i+1));
+		//flavors[i].animate({backgroundColor: '#'+palette[i]}, 100*(i+1));
+		flavors[i].css('backgroundColor', '#'+palette[i]);
 	}
 
 	//check to see if the palette title ends with punctuation

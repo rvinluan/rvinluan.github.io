@@ -18,6 +18,8 @@ body {
 	height: 55px;
 	width: 55px;
 	box-sizing: border-box;
+	-webkit-transition: background-color 0.5s;
+	transition: background-color 0.5s;
 }
 
 .home {

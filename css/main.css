@@ -72,6 +72,11 @@ body {
 	width: 70%;
 }
 
+#articles-list .colored {
+	-webkit-transition: background-color 0.5s;
+	transition: background-color 0.5s;
+}
+
 #articles-list a {
 	color: inherit;
 }

@@ -2,7 +2,7 @@
 layout: post
 title: "Test Post: Please Ignore"
 subtitle: No, seriously
-hide_subtitle: true
+show_subtitle: true
 ---
 
 This is a test of my tumblr theme style. It has paragraphs and lists and all kinds of shit.

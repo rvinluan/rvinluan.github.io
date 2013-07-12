@@ -90,11 +90,12 @@ article {
 	padding: 1.4em;
 	background-repeat: no-repeat;
 	background-position: top right;
-	max-height: 55px;
 }
 
 article .title {
-	font-weight: 400;
+	text-transform: lowercase;
+	font-family: "Roboto";
+	font-weight: 100;
 	font-size: 1.4em;
 	max-width: 90%;
 	overflow: hidden;
@@ -103,10 +104,12 @@ article .title {
 }
 
 article .subtitle {
-	font-weight: 100;
-	letter-spacing: normal;
-	margin-top: 0.2em;
-	font-size: .9em;
+	font-family: "Lora";
+	font-weight: 200;
+	font-style: italic;
+	font-size: 0.8em;
+	letter-spacing: 1;
+	margin-top: 0.4em;
 	max-width: 90%;
 	overflow: hidden;
 	text-overflow: ellipsis;
@@ -114,13 +117,13 @@ article .subtitle {
 }
 
 .dark {
-	color: #eee;
-	letter-spacing: 0.1em;
+	color: rgba(229,229,229,0.7);
+	/*letter-spacing: 0.1em;*/
 	background-position: right -110px;
 }
 
 .light {
-	color: #222;
+	color: rgba(16,16,16,0.7);
 	background-position: right 0px;
 }
 

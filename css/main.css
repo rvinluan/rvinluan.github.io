@@ -93,10 +93,10 @@ article {
 }
 
 article .title {
-	text-transform: lowercase;
-	font-family: "Roboto";
+	text-transform: Capitalize;
+	font-family: "Mission Gothic";
 	font-weight: 100;
-	font-size: 1.4em;
+	font-size: 2em;
 	max-width: 90%;
 	overflow: hidden;
 	text-overflow: ellipsis;

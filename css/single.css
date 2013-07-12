@@ -64,14 +64,14 @@ img {
 }
 
 #main h1 {
-	font-family: "Roboto";
+	font-family: "Mission Gothic";
 
 	/* title */
-	text-transform: lowercase;
-	font-size: 50px;
+	text-transform: Capitalize;
+	font-size: 60px;
 	font-style: normal;
-	text-align: left;
-	font-weight: 100;
+	text-align: center;
+	font-weight: 200;
 	color: #555;
 	line-height: 1;
 }
@@ -83,12 +83,12 @@ img {
 	font-size: 1.3em;
 	font-style: italic;
 	font-weight: 100;
-	text-align: left;
+	text-align: center;
 }
 
 .date {
 	display: block;
-	text-align: left;
+	text-align: center;
 	color: #999;
 	font-size: 14px;
 	margin: 2em 0 .5em 0;
@@ -146,6 +146,7 @@ img {
 	#topBar {
 		position: absolute;
 		top: 0;
+		left: 0;
 		width: 100%;
 	}
 
@@ -170,6 +171,10 @@ img {
 @media (max-width: 500px) {
 	#main {
 		width: 350px;
+	}
+
+	#topBar {
+		left: 0;
 	}
 }
 

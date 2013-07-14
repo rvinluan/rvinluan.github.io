@@ -53,6 +53,7 @@ body {
 	padding: 0.6em;
 	border-radius: 5px;
 	width: 200px;
+	color: white;
 }
 
 .about {
@@ -93,10 +94,10 @@ article {
 }
 
 article .title {
-	text-transform: Capitalize;
-	font-family: "Source Sans Pro";
-	font-weight: 400;
-	font-size: 1.5em;
+	text-transform: capitalize;
+	font-family: "Lora";
+	font-weight: 900;
+	font-size: 2.1em;
 	max-width: 90%;
 	overflow: hidden;
 	text-overflow: ellipsis;

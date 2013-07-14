@@ -64,15 +64,15 @@ img {
 }
 
 #main h1 {
-	font-family: "Source Sans Pro";
+	font-family: "Lora";
 
 	/* title */
-	text-transform: Capitalize;
-	font-size: 37px;
+	text-transform: capitalize;
+	font-size: 50px;
 	font-style: normal;
 	text-align: center;
 	font-weight: 900;
-	color: #777;
+	color: #222;
 	line-height: 1;
 }
 

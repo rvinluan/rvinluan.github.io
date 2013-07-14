@@ -5,9 +5,9 @@ subtitle: No, seriously
 show_subtitle: true
 ---
 
-This is a test of my tumblr theme style. It has paragraphs and lists and all kinds of shit.
+This is a test of my blog's style. It has paragraphs and lists and all kinds of shit.
 
-I’ve been meaning to write about Spelunky for a long time. Probably because it’s without question one of my favorite games ever. In this post I’m going to outline what sets it apart from other games in its genre, and the philosophy it has that I often seek to apply to my own games.
+This is a test paragraph, made only for test\*ing what paragraphs look like\*. Who would have thought! The asterisks are there so that I can set a reasonable measure for whatever font or font size I'm using—they let me know how many characters wide my lines are. As far as I can tell [Trent Walton](http://trentwalton.com/2012/06/19/fluid-type/) invented it, and I think it's a pretty neat idea. 
 
 ### Here’s a really long section header let’s see what it looks like when it takes up two lines or even more maybe
 
@@ -23,6 +23,27 @@ I’ve been meaning to write about Spelunky for a long time. Probably because it
 + here's an unordered list
 + with a [link](http://www.google.com) in it!
 
-Spelunky is part of the Roguelike genre, which means it takes elements from the game Rogue, which came out in 1980. Namely: [Permadeath](http://www.google.com), randomly generated levels, and character progression over a “run" (meaning, you play the game in a ‘see how far you can get until you die’-type way). Some people would call it a Roguelike-like, since it doesn’t have some of the major aspects of Rogue, like turn based gameplay, RPG-style stat increases and ASCII graphics.
+### Code with Pygment highlighting
+
+{% highlight js %}
+$(function(){
+    $('.a').on('click','.b', function(){
+        var which = $(this),
+            row = which.attr('data-row'),
+            c = $('.d'),
+            lastInRow = which.siblings().addBack().filter(function(index) {
+                return $(this).attr('data-row') === row;
+            }).last();
+        
+        c.slideUp(200, function() {
+            lastInRow.after(c);
+            c.slideDown();
+        });
+        
+    })
+})
+{% endhighlight %}
+
+### Blockquotes
 
 > You have to look the best to be the best.

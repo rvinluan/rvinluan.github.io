@@ -64,15 +64,15 @@ img {
 }
 
 #main h1 {
-	font-family: "Mission Gothic";
+	font-family: "Source Sans Pro";
 
 	/* title */
 	text-transform: Capitalize;
-	font-size: 60px;
+	font-size: 37px;
 	font-style: normal;
 	text-align: center;
-	font-weight: 200;
-	color: #555;
+	font-weight: 900;
+	color: #777;
 	line-height: 1;
 }
 
@@ -105,7 +105,7 @@ img {
 
 #main p {
 	font-weight: 400;
-	font-size: 18px;
+	font-size: 21px;
 	margin-bottom: 1em;
 	line-height: 1.8;
 }

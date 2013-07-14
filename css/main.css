@@ -94,9 +94,9 @@ article {
 
 article .title {
 	text-transform: Capitalize;
-	font-family: "Mission Gothic";
-	font-weight: 100;
-	font-size: 2em;
+	font-family: "Source Sans Pro";
+	font-weight: 400;
+	font-size: 1.5em;
 	max-width: 90%;
 	overflow: hidden;
 	text-overflow: ellipsis;

@@ -64,24 +64,25 @@ img {
 }
 
 #main h1 {
-	font-family: "Lora";
+	font-family: "Roboto Slab";
 
 	/* title */
-	text-transform: capitalize;
-	font-size: 50px;
+	text-transform: uppercase;
+	font-size: 28px;
+	letter-spacing: 3px;
 	font-style: normal;
 	text-align: center;
-	font-weight: 900;
+	font-weight: 300;
 	color: #222;
-	line-height: 1;
+	line-height: 1.2;
 }
 
 #main h2 {
 	/* subtitle */
-	font-family: "Lora";
+	font-family: "Roboto Slab";
 	margin-top: 1em;
-	font-size: 1.3em;
-	font-style: italic;
+	font-size: 1em;
+	font-style: normal;
 	font-weight: 100;
 	text-align: center;
 }
@@ -91,27 +92,31 @@ img {
 	text-align: center;
 	color: #999;
 	font-size: 14px;
-	margin: 2em 0 .5em 0;
+	margin: 2em 0 2em 0;
 }
 
 #main h3 {
 	/* section header */
-	font-weight: 100;
+	font-family: "Roboto Slab";
+	font-weight: 300;
+	font-style: normal;
 	text-transform: uppercase;
-	margin: 1em 0;
+	margin: 2.9em 0 2em 0;
 	letter-spacing: 1px;
-	font-size: 1em;
+	font-size: 1.4em;
+	color: #999;
 }
 
 #main p {
-	font-weight: 400;
-	font-size: 21px;
+	font-family: "Source Sans Pro";
+	font-weight: 300;
+	font-size: 18px;
 	margin-bottom: 1em;
 	line-height: 1.8;
 }
 
 #main p:first-of-type {
-	margin-top: 2em;
+	margin-top: 3em;
 }
 
 #main a {

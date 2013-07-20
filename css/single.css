@@ -6,6 +6,7 @@ body {
 	font-family: "Source Sans Pro", sans-serif;
 	color: #555;
 	line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
 }
 
 #topBar {
@@ -60,7 +61,7 @@ img {
 
 #main {
 	width: 600px;
-	margin: 4em auto 0 auto;
+	margin: 4em auto 200px auto;
 }
 
 #main h1 {
@@ -79,11 +80,11 @@ img {
 
 #main h2 {
 	/* subtitle */
-	font-family: "Roboto Slab";
+	font-family: "Source Sans Pro";
 	margin-top: 1em;
 	font-size: 1em;
 	font-style: normal;
-	font-weight: 100;
+	font-weight: 300;
 	text-align: center;
 }
 
@@ -97,19 +98,19 @@ img {
 
 #main h3 {
 	/* section header */
-	font-family: "Roboto Slab";
-	font-weight: 300;
+	font-family: "Source Sans Pro";
+	font-weight: 500;
 	font-style: normal;
-	text-transform: uppercase;
-	margin: 2.9em 0 2em 0;
+	text-transform: capitalize;
+	margin: 2.9em 0 1em 0;
 	letter-spacing: 1px;
-	font-size: 1.4em;
-	color: #999;
+	font-size: 1.5em;
+	color: #555;
 }
 
 #main p {
 	font-family: "Source Sans Pro";
-	font-weight: 300;
+	font-weight: 400;
 	font-size: 18px;
 	margin-bottom: 1em;
 	line-height: 1.8;
@@ -120,8 +121,8 @@ img {
 }
 
 #main a {
-	text-decoration: underline;
-	cursor: pointer;
+	padding-bottom: 1px;
+	border-bottom: 1px solid #444;
 }
 
 #main ul {

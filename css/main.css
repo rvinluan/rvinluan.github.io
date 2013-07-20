@@ -17,6 +17,7 @@ body {
 	font-family: "Source Sans Pro";
 	text-rendering: optimizeLegibility;
 	width: 100%;
+	-webkit-font-smoothing: antialiased;
 }
 
 .header {
@@ -105,7 +106,7 @@ article {
 }
 
 article .title {
-	text-transform: uppercase;
+	text-transform: capitalize;
 	letter-spacing: 1px;
 	font-family: "Roboto Slab";
 	font-weight: 300;
@@ -118,12 +119,12 @@ article .title {
 
 article .subtitle {
 	font-family: "Source Sans Pro";
-	font-weight: 300;
+	font-weight: 500;
 	font-style: normal;
 	font-size: 1em;
 	text-transform: capitalize;
 	letter-spacing: 1;
-	margin-top: 0.4em;
+	margin-top: 0.2em;
 	max-width: 90%;
 	overflow: hidden;
 	text-overflow: ellipsis;

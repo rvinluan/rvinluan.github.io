@@ -1,5 +1,9 @@
 /* media queries */
 @media (max-width: 800px) {
+	body {
+		font-size: 16px;
+	}
+
 	.header {
 		height: auto;
 		width: auto;
@@ -10,9 +14,20 @@
 	#articles-list {
 		width: auto;
 		float: none;
+		padding-left: 0;
 	}
 
 	.about, .who {
 		display: none;
+	}
+}
+
+@media (max-width: 480px) {
+	body {
+		font-size: 12px;
+	}
+
+	.header {
+		font-size: 3em;
 	}
 }

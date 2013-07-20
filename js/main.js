@@ -1,9 +1,9 @@
 var etc = {
 	palette: [
 		'FFFFFF',
+		'CCCCCC',
 		'FFFFFF',
-		'FFFFFF',
-		'FFFFFF',
+		'CCCCCC',
 		'FFFFFF'
 	],
 	paletteTitle: 'undefined',
@@ -11,44 +11,23 @@ var etc = {
 	firstLoad: true,
 };
 
-/**
-* Converts an RGB color value to HSL. Conversion formula
-* adapted from http://en.wikipedia.org/wiki/HSL_color_space.
-* Assumes r, g, and b are contained in the set [0, 255] and
-* returns h, s, and l in the set [0, 1].
-*
-* @param   Number  r       The red color value
-* @param   Number  g       The green color value
-* @param   Number  b       The blue color value
-* @return  Array           The HSL representation
+/*
+* Calculates the Luminance (Y) of a color based off
+* its linear R G B colors. Formula taken from
+* http://en.wikipedia.org/wiki/Luminance_(relative)
+* Returns a value relative to its input, in this case 255.
 */
-etc.rgbToHsl = function(r, g, b) {
-	r /= 255, g /= 255, b /= 255;
-	var max = Math.max(r, g, b), min = Math.min(r, g, b);
-	var h, s, l = (max + min) / 2;
-
-	if(max == min){
-		h = s = 0; // achromatic
-	}else{
-		var d = max - min;
-		s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
-		switch(max){
-			case r: h = (g - b) / d + (g < b ? 6 : 0); break;
-			case g: h = (b - r) / d + 2; break;
-			case b: h = (r - g) / d + 4; break;
-		}
-		h /= 6;
-	}
-
-	return [h, s, l];
+etc.rgbToY = function(r, g, b) {
+	return (0.2126*r) + (0.7152*g) + (0.0722*b);
 }
 
 /*
-Find the index of the largest item in the array.
-This is used to determine which color to use for the background.
-
-As of 11/17 this is no longer in use anywhere,
-but I'm keeping it because it could be one day.
+* Find the index of the largest item in the array.
+* This is used to determine which color to use for the background.
+* 
+* As of 11/17 this is no longer in use anywhere,
+* but I'm keeping it because it could be one day.
+* Bad practice, I know.
 */
 etc.findLargest = function(array) {
 	var max_index = -1,
@@ -62,7 +41,12 @@ etc.findLargest = function(array) {
 	return max_index;
 }
 
-
+/*
+* Call the ColourLovers API and grab a palette.
+* Their API provides an 'offset' parameter,
+* so I only ever grab one result but it can be out of a random 100,
+* instead of asking for 100 and choosing 1.
+*/
 etc.getPalette = function() {
 	$.getJSON("http://www.colourlovers.com/api/palettes/top?jsonCallback=?", {
 		numResults: 1,
@@ -98,19 +82,17 @@ etc.changeColors = function(palette, title, url) {
 	];
 	
 	for(var i = 0; i < palette.length; i++) {
-		var lightness = etc.rgbToHsl(
-				parseInt(palette[i].substring(0,2),16),
-				parseInt(palette[i].substring(2,4),16),
-				parseInt(palette[i].substring(4,6),16)
-			)[2];
-		if(lightness >= 0.5) {
+		var luminance = etc.rgbToY(
+			parseInt(palette[i].substring(0,2),16),
+			parseInt(palette[i].substring(2,4),16),
+			parseInt(palette[i].substring(4,6),16)
+		);
+		if(luminance >= (255/2)) {
 			flavors[i].removeClass('dark').addClass('light');
 		} else {
 			flavors[i].removeClass('light').addClass('dark');
 			$('.color-button').css('background-color','#'+palette[i]).removeClass('light').addClass('dark');
 		}
-
-		//flavors[i].animate({backgroundColor: '#'+palette[i]}, 100*(i+1));
 		flavors[i].css('backgroundColor', '#'+palette[i]);
 	}
 
@@ -120,6 +102,9 @@ etc.changeColors = function(palette, title, url) {
 
 	$('.palette-title').text(textString).attr('href', url).show();
 
+	//I grab a new palette after clicking the button,
+	//so there's always a next palette in stock
+	//and you don't wait for the API to see results.
 	etc.getPalette();
 }
 

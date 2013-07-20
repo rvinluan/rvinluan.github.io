@@ -19,6 +19,7 @@ body {
 	height: 55px;
 	width: 55px;
 	box-sizing: border-box;
+	-moz-box-sizing: border-box;
 	-webkit-transition: background-color 0.5s;
 	transition: background-color 0.5s;
 }
@@ -28,8 +29,8 @@ body {
 	text-decoration: none;
 	text-align: center;
 	text-transform: uppercase;
-	-webkit-transition-property: width;
-	-webkit-transition-duration: 0.4s;
+	-webkit-transition: background-color 0.5s, width 0.4s, height 0.4s;
+	transition: background-color 0.5s, width 0.4s, height 0.4s;
 }
 
 .home a {
@@ -39,8 +40,8 @@ body {
 
 #topBar .home:hover {
 	width: 70px;
-	-webkit-transition-property: width;
-	-webkit-transition-duration: 0.4s;
+	-webkit-transition: width 0.4s, height 0.4s;
+	transition: width 0.4s, height 0.4s;
 }
 
 header {
@@ -163,6 +164,11 @@ img {
 		width: 20%;
 	}
 
+	#topBar .home:hover {
+		width: 20%;
+		height: 70px;
+	}
+
 	#main {
 		margin-top: 100px;
 		width: 400px;
@@ -172,11 +178,18 @@ img {
 		margin-top: 1em;
 		font-size: 1em;
 	}
+
+	header {
+		height: 200px;
+		padding-top: 55px;
+	}
 }
 
 @media (max-width: 500px) {
 	#main {
-		width: 350px;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
 	}
 
 	#topBar {

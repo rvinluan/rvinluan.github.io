@@ -122,9 +122,34 @@ img {
 }
 
 #main a {
-	padding-bottom: 1px;
-	border-bottom: 1px solid #444;
+/*	padding-bottom: 1px;
+	border-bottom: 1px solid #444; */
+	color: black;
+	transition: color 0.2s;
 }
+
+	#main a:hover {
+		color: #7e1a46;
+	}
+
+	#main a:before {
+		content: "[";
+		transition: margin 0.2s;
+	}
+
+		#main a:hover:before {
+			margin-left: -0.1em;
+			margin-right: 0.1em;
+		}
+
+	#main a:after {
+		content: "]";
+		transition: margin 0.2s;
+	}
+		#main a:hover:after {
+			margin-left: 0.1em;
+			margin-right: -0.1em;
+		}
 
 #main ul {
 	margin: 0 0 2em 2em;
@@ -147,6 +172,10 @@ img {
 	font-style: italic;
 	font-size: 1.2em;
 	margin: 0;
+}
+
+#main pre {
+	margin-bottom: 1.5em;
 }
 
 @media (max-width: 750px) {

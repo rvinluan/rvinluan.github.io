@@ -44,6 +44,13 @@ $(function(){
 })
 {% endhighlight %}
 
+### Wait this is weird
+
+_italic_
+*italic*
+__bold__
+**bold**
+
 ### Blockquotes
 
 > You have to look the best to be the best.

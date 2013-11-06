@@ -115,21 +115,23 @@ img {
 	font-size: 18px;
 	margin-bottom: 1em;
 	line-height: 1.8;
+	color: #555;
 }
 
-#main p:first-of-type {
+#main > p:first-of-type {
 	margin-top: 3em;
 }
 
 #main a {
-/*	padding-bottom: 1px;
-	border-bottom: 1px solid #444; */
-	color: black;
+	padding-bottom: 1px;
+	border: none;
+	color: #7e1a46;
 	transition: color 0.2s;
+	margin: 0 0.3em;
 }
 
 	#main a:hover {
-		color: #7e1a46;
+		color: #888;
 	}
 
 	#main a:before {
@@ -138,8 +140,8 @@ img {
 	}
 
 		#main a:hover:before {
-			margin-left: -0.1em;
-			margin-right: 0.1em;
+			margin-left: -0.25em;
+			margin-right: 0.25em;
 		}
 
 	#main a:after {
@@ -147,8 +149,8 @@ img {
 		transition: margin 0.2s;
 	}
 		#main a:hover:after {
-			margin-left: 0.1em;
-			margin-right: -0.1em;
+			margin-left: 0.25em;
+			margin-right: -0.25em;
 		}
 
 #main ul {

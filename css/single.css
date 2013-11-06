@@ -118,6 +118,11 @@ img {
 	color: #555;
 }
 
+#main .preface {
+	/* quote or intro */
+	font-style: italic;
+}
+
 #main > p:first-of-type {
 	margin-top: 3em;
 }
@@ -178,6 +183,10 @@ img {
 
 #main pre {
 	margin-bottom: 1.5em;
+}
+
+#main .strikethrough {
+	text-decoration: line-through;
 }
 
 @media (max-width: 750px) {

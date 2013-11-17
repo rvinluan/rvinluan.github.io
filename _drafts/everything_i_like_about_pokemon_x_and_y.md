@@ -1,7 +1,7 @@
 ---
 title: Everything I like about Pokemon X and Y
 layout: post
-date: 2013-10-16
+date:
 ---
 
 What happens if I put a paragraph here?

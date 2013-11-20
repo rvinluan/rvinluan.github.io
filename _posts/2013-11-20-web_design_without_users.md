@@ -1,7 +1,8 @@
 ---
 title: The Experiential Web
 layout: post
-date:
+date: 2013-11-20 12:44
+private: true
 ---
 
 This is a manifesto.

@@ -162,6 +162,12 @@ header img {
 	margin: 0;
 }
 
+#main figcaption {
+	font: 400 italic 0.9em/1 "Source Sans Pro";
+	margin-bottom: 1.2em;
+	text-align: center;
+}
+
 #main pre {
 	margin-bottom: 1.5em;
 }

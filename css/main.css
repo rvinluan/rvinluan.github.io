@@ -111,10 +111,11 @@ article .title {
 	font-family: "Roboto Slab";
 	font-weight: 300;
 	font-size: 1.8em;
-	max-width: 95%;
+	line-height: 1.2;
+/*	max-width: 95%;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	white-space: nowrap;
+	white-space: nowrap;*/
 }
 
 article .subtitle {
@@ -125,10 +126,11 @@ article .subtitle {
 	text-transform: capitalize;
 	letter-spacing: 1;
 	margin-top: 0.2em;
-	max-width: 90%;
+	line-height: 1.2;
+/*	max-width: 90%;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	white-space: nowrap;
+	white-space: nowrap;*/
 }
 
 .dark {

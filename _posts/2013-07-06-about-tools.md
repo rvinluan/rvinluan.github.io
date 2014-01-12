@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Some notes about tools"
-subtitle: "Specifically, code-less web design tools"
+title: Codeless Web Design Tools are like Home Printers
 ---
 
-The other day someone showed me [webflow](). I thought it was neat, and that the demo was really well done. But then I had to wonder if the world needed another tool for code-less web design.
+The other day someone showed me [webflow](https://webflow.com). I thought it was neat, and that the demo was really well done. But then I had to wonder if the world needed another tool for code-less web design.
 
 These tools usually span the gamut of everything from simple photoshop plugins that export CSS to full wysiwyg editors like Adobe's muse. Then there are web based ones like webflow, and squarespace.
 

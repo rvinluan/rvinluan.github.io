@@ -3,6 +3,7 @@ layout: post
 title: "Test Post: Please Ignore"
 subtitle: No, seriously
 show_subtitle: true
+private: true
 ---
 
 This is a test of my blog's style. It has paragraphs and lists and all kinds of shit.

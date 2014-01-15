@@ -28,14 +28,16 @@ body {
 	color: white;
 	text-decoration: none;
 	text-align: center;
-	text-transform: uppercase;
+	text-transform: capitalize;
+	font-size: 15px;
 	-webkit-transition: background-color 0.5s, width 0.4s, height 0.4s;
 	transition: background-color 0.5s, width 0.4s, height 0.4s;
 }
 
 .home a {
+	display: block;
 	color: inherit;
-	font-size: 2.5em;
+	padding: 16px 0 15px 0;
 }
 
 #topBar .home:hover {

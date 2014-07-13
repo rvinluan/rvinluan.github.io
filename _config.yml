@@ -1,3 +1,4 @@
 name: etc
 pygments: true
 port: 4001
+markdown: kramdown

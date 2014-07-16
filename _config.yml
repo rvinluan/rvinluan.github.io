@@ -1,4 +1,4 @@
 name: etc
-pygments: true
+highlighter: pygments
 port: 4001
 markdown: kramdown

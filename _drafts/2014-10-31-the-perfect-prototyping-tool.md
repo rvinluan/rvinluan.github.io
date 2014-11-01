@@ -26,7 +26,7 @@ If I want to trigger a state transition on tap AND on pinch, I should be able to
 
 ##No more magic numbers
 
-I don't want to have to count pixels. I should easily be able to position elements based off of other elements, so instead of saying 340 I can say 'the center of the screen' or 'the bottom edge of element X'. 
+I don't want to have to count pixels. I should easily be able to position elements based off of other elements, so instead of saying 340 I can say 'the center of the screen' or 'the bottom edge of element X'. I want a program that is smart enough to put this in my code automatically when I snap to certain points by dragging within the GUI. 
 
 ##Keep organized
 

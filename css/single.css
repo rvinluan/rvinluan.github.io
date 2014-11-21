@@ -3,7 +3,7 @@
 }
 
 body {
-	font-family: "Source Sans Pro", sans-serif;
+	font-family: "Linux Libertine", serif;
 	color: #555;
 	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
@@ -68,11 +68,11 @@ body {
 }
 
 #main h1 {
-	font-family: "Roboto Slab";
+	font-family: "Roboto Slab", sans-serif;
 
 	/* title */
 	text-transform: uppercase;
-	font-size: 28px;
+	font-size: 38px;
 	letter-spacing: 3px;
 	font-style: normal;
 	text-align: center;
@@ -83,7 +83,7 @@ body {
 
 #main h2 {
 	/* subtitle */
-	font-family: "Source Sans Pro";
+	font-family: "Roboto Slab", sans-serif;
 	margin-top: 1em;
 	font-size: 1em;
 	font-style: normal;
@@ -101,23 +101,21 @@ body {
 
 #main h3 {
 	/* section header */
-	font-family: "Source Sans Pro";
-	font-weight: 500;
+	font-family: "Roboto Slab", sans-serif;
+	font-weight: 300;
 	font-style: normal;
-	text-transform: capitalize;
 	margin: 1em 0 1em 0;
-	letter-spacing: 1px;
-	font-size: 1.5em;
+	font-size: 1.7em;
 	color: #555;
 }
 
 #main p {
-	font-family: "Source Sans Pro";
+	font-family: "Linux Libertine", serif;
 	font-weight: 400;
-	font-size: 18px;
+	font-size: 19px;
 	margin-bottom: 1em;
-	line-height: 1.6;
-	color: #555;
+	line-height: 1.5;
+	color: #333;
 }
 
 #main .preface {
@@ -152,7 +150,7 @@ body {
 }
 
 #main blockquote {
-	border-left: 5px solid #555;
+	border-left: 1px solid #555;
 	padding: 0.8em 0 1em 3em;
 	margin: 2em 0;
 }
@@ -165,7 +163,7 @@ body {
 }
 
 #main figcaption {
-	font: 400 italic 0.9em/1 "Source Sans Pro";
+	font: 400 italic 0.9em/0.9 "Linux Libertine";
 	margin-bottom: 1.2em;
 	text-align: center;
 }

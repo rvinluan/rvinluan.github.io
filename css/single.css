@@ -16,6 +16,7 @@ body {
 }
 
 #topBar div {
+	font-family: "Roboto Slab", sans-serif;
 	height: 55px;
 	width: 55px;
 	box-sizing: border-box;
@@ -92,6 +93,7 @@ body {
 }
 
 .date {
+	font-family: "Roboto Slab", sans-serif;
 	display: block;
 	text-align: center;
 	color: #999;
@@ -170,6 +172,11 @@ body {
 
 #main pre {
 	margin-bottom: 1.5em;
+}
+
+#main p > code {
+	font-size: 0.9em;
+	color: #666;
 }
 
 #main .strikethrough {

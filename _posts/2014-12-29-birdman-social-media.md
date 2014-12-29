@@ -21,21 +21,21 @@ Generally I find that depictions that fall victim the three crimes above tend to
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/tn48hUyFrKQ" frameborder="0" allowfullscreen></iframe>
 
-Of course, this interpretation works within the universe of the film: because the audience is watching from the perspective of Riggin (Michael Keaton), the fact that social media is portrayed as an alien world that in some senses his daughter is the gatekeeper of (she creates and posts to his Twitter account) is a defining aspect of their relationship. His distance from her, as well as his wish to distance himself from his public persona, is what forms the basis for his feelings about social media, which we then see largely through his eyes.
+Of course, this interpretation works within the universe of the film: because the audience is watching from the perspective of Riggan (Michael Keaton), the fact that social media is portrayed as an alien world that in some senses his daughter is the gatekeeper of (she creates and posts to his Twitter account) is a defining aspect of their relationship. His distance from her, as well as his wish to distance himself from his public persona, is what forms the basis for his feelings about social media, which we then see largely through his eyes.
 
-In contrast, one of the movies I felt portrayed social media (specifically Twitter) in a refreshingly realistic way was the movie Chef. 
+In contrast, one of the movies I felt portrayed social media (specifically Twitter) in a refreshingly realistic way was Jon Favreau's Chef. 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/PIqLqTaBczs" frameborder="0" allowfullscreen></iframe>
 
 Some important things to note about the above clip: the first is that Twitter is not just a young person thing: John Leguizamo and Bobby Canavale's characters use it and exchange banter about it, they understand its social norms and behaviors and they use the jargon with Carl (Jon Favreau) with an encouraging tone (You're trending bro) -- with a noticeable lack of any condescending 'Do you even know what that means?' attitude.
 
-Second is that the people on Twitter are for once surfaced and relevant to the plot of the film: "They're sending me messages, they're goading me into responding". This is the key difference for me: in Chef, the people on social media aren't just numbers on a screen, nor do they exist in their own separate world as in Birdman. They have real impact on the characters and the plot beyond the fact that they "made something go viral".
+Second is that the people on Twitter are for once surfaced and relevant: "They're sending me messages, they're goading me into responding". This is the key difference for me: in Chef, the people on social media aren't just numbers on a screen, nor do they exist in their own separate world as in Birdman. They have real impact on the characters and the plot beyond the fact that they "made something go viral".
 
 Note Carl's first line in the Chef clip. Even though he talks about being "up to 2000 followers since last night", he prefaces that measurement with a very minor but very important consideration: "Do you realize how many people have read this?" In Chef, social media is always about the people first.
 
-Another thing I find admirable about Chef's portrayal of Twitter is the protagonist's embrace of it in general. While Carl is initially skeptical, he picks things up quickly and acts supportive and curious rather than dismissive. This, too, can be very much attributed to characterization. Much of Carl's education about social media comes from his son (Emjay Anthony), who predictably, is well versed in all its forms. Carl's determination to bond with his son and learn about him and his interests forms the basis of his attitude towards Twitter, in almost the exact opposite way that Riggin's neglect of his daughter characterizes his view of social media in Birdman.
+Another thing I find admirable about Chef's portrayal of Twitter is the protagonist's embrace of it in general. While Carl is initially skeptical, he picks things up quickly and acts supportive and curious rather than dismissive. This, too, can be very much attributed to characterization. Much of Carl's education about social media comes from his son (Emjay Anthony), who predictably, is well versed in all its forms. Carl's determination to bond with his son and learn about him and his interests forms the basis of his attitude towards Twitter, in almost the exact opposite way that Riggan's neglect of his daughter characterizes his view of social media in Birdman.
 
-I'd love to see more movies take this approach with social media: that it's more than things just going viral; that it's about interacting with real people who really exist. I think we often forget that ourselves when we use things like Twitter. It's just kind of nice to see movies get that instead of throwing it into the plot because it's trendy.
+I'd love to see more movies take this approach: that social media is more than things just going viral; that it's about interacting with real people who really exist. I think we often forget that ourselves when we use things like Twitter. It's just kind of nice to see movies get that instead of throwing it into the plot because it's trendy.
 
 
 

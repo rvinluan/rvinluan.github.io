@@ -1,6 +1,11 @@
 ---
-published: false
+layout: post
+title: "Birdman and Social Media"
+subtitle: Some comparisons of Hollywood's correct and not-so-correct portrayals
+published: true
+hide_subtitle: true
 ---
+<p class="preface">This post contains minor spoilers for the movies Birdman and Chef. Nothing is spoiled that isn't already spoiled by trailers or the clips included in this post.</p>
 
 > You hate bloggers, you mock Twitter, you don't even have a Facebook page! You're the one who doesn't exist!
 > 
@@ -14,17 +19,17 @@ I just saw Birdman recently and while there are many many things to praise about
 
 Generally I find that depictions that fall victim the three crimes above tend to come across as soulless, or distant. Like they don't really understand what social media is about, how it's used, or what people get out of it. Often the picture painted of social media is of a completely separate world, a world that nobody understands because it operates under different rules. In Birdman, Emma Stone's character even refers to it as a separate place: "a place that you ignore", a place that "has already forgotten about you".
 
-Birdman Clip: https://www.youtube.com/watch?v=tn48hUyFrKQ
+<iframe width="560" height="315" src="//www.youtube.com/embed/tn48hUyFrKQ" frameborder="0" allowfullscreen></iframe>
 
 Of course, this interpretation works within the universe of the film: because the audience is watching from the perspective of Riggin (Michael Keaton), the fact that social media is portrayed as an alien world that in some senses his daughter is the gatekeeper of (she creates and posts to his Twitter account) is a defining aspect of their relationship. His distance from her, as well as his wish to distance himself from his public persona, is what forms the basis for his feelings about social media, which we then see largely through his eyes.
 
 In contrast, one of the movies I felt portrayed social media (specifically Twitter) in a refreshingly realistic way was the movie Chef. 
 
-Chef Clip: https://www.youtube.com/watch?v=PIqLqTaBczs
+<iframe width="560" height="315" src="//www.youtube.com/embed/PIqLqTaBczs" frameborder="0" allowfullscreen></iframe>
 
 Some important things to note about the above clip: the first is that Twitter is not just a young person thing: John Leguizamo and Bobby Canavale's characters use it and exchange banter about it, they understand its social norms and behaviors and they use the jargon with Carl (Jon Favreau) with an encouraging tone (You're trending bro) -- with a noticeable lack of any condescending 'Do you even know what that means?' attitude.
 
-Second is that the people on Twitter are for once surfaced and relevant to the plot of the film: "They're sending me all kinds of messages, they're goading me into responding". This is the key difference for me: in Chef, the people on social media aren't just numbers on a screen, nor do they exist in their own separate world as in Birdman. They have real impact on the characters and the plot beyond the fact that they "made something go viral".
+Second is that the people on Twitter are for once surfaced and relevant to the plot of the film: "They're sending me messages, they're goading me into responding". This is the key difference for me: in Chef, the people on social media aren't just numbers on a screen, nor do they exist in their own separate world as in Birdman. They have real impact on the characters and the plot beyond the fact that they "made something go viral".
 
 Note Carl's first line in the Chef clip. Even though he talks about being "up to 2000 followers since last night", he prefaces that measurement with a very minor but very important consideration: "Do you realize how many people have read this?" In Chef, social media is always about the people first.
 

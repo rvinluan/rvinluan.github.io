@@ -1,5 +1,6 @@
 ---
 published: false
+title: Resolutions
 ---
 
 Write more. Put more content out in general. Stop caring what people will think about it.

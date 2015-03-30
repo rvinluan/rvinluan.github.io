@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Warner Brothers, the studio producing the Ready Player One movie, just announced it scored Steven Spielberg as the director for the film adaptation of the bestselling novel (which it aqcuired the rights to in 2010, a year before the book was even realeased). 

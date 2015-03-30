@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+title: Ready Player One
+subtitle: Some Thoughts About Hollywood and Virtual Reality
 ---
 
 Warner Brothers, the studio producing the Ready Player One movie, just announced it scored Steven Spielberg as the director for the film adaptation of the bestselling novel (which it aqcuired the rights to in 2010, a year before the book was even realeased). 

@@ -32,7 +32,7 @@ As a whole the identity comes off unexplored and unfulfilled. A custom algorithm
 
 But despite all of those things, despite how much we shake our heads and lament the fact that our supposedly top-teir design school can't even design istelf properly, we still have to remember that this identity, like all identites, is a work in progress. We have to grow with it and shape it and let it shape us back. I can only hope that what comes across to me as mud turns out to actually be clay: something to be molded and transformed into something at least a little more tolerable.
 
-I'll close with this quote from my friend Joe Evans, who actually worked on the water tower mural, because I think it's a nice positive end note and I feel like it sums up what I've been meaning to say.
+I'll close with this quote from my friend Joe Evans, who actually worked on the water tower mural, because I think it's a positive end note and I feel like it sums things up well.
 
 > The New School is a place for us to grow, learn and become better individuals thorough the experiences it has to offer. The new identity exists and is a reality and it has set the ground-work for “potential” through a visual system, but the work is not done. We must take advantage of this empowering identity of both unity and diversity and grasp the opportunity to collaborate and grow as school, not just as individuals.
 

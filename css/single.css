@@ -166,6 +166,10 @@ body {
 	margin: 1em 0;
 }
 
+#main blockquote p:first-child {
+	margin-top: 0;
+}
+
 #main figcaption {
 	font: 400 italic 0.9em/0.9 "Linux Libertine";
 	margin-bottom: 1.2em;

@@ -18,6 +18,8 @@ That being said, I'd like to follow my own advice and do more than just wag a fi
 
 Firstly, I should say that the identity does have its strengths, the whole wheat bread in our vegan, free-range, locally sourced criticism sandwich. The 'Neue' typeface does look provocatively weird at large sizes, and the individual school logos, big and red, lock up nicely with the tiny 'The New School' as an anchor. At billboard sizes, you can really see the quirkyness that loudly declares that The New School isn't just any university; the just-shy-of-acceptable-ness that Siegel+Gale accomplished with a spray paint aesthetic in 2005, replaced now by an algorithmic typeface that chooses from 3 widths of each character. The applications that blow up the type real big (sometimes bleeding them off) are definitely the most successful; you need to be able to see the odd joints and the differences between the widths clearly for the impact to work.
 
+![](http://www.underconsideration.com/brandnew/archives/the_new_school_logo_system.png)
+
 But the solid concept is in my eyes marred by what seems like an unfinished execution. The letterforms (especially at smaller sizes) are just barely not quirky enough; when over-applied (like they are on the [newschool.edu](http://newschool.edu) homepage), they lose their edge and beome amateurish; the details that were intended to bring the design to life become mistakes instead.
 
 In the typeface is plenty of potential not quite reached: the varying width logos wanting to be [The Public Theater Identity](http://new.pentagram.com/2008/06/new-work-the-public-theater-1/) really bad, but being not quite playful enough, not removed enough from a generic modernist geometric sans to carry the full weight of the brand's personality.

@@ -20,7 +20,7 @@ Firstly, I should say that the identity does have its strengths, the whole wheat
 
 But the solid concept is in my eyes marred by what seems like an unfinished execution. The letterforms (especially at smaller sizes) are just barely not quirky enough; when over-applied (like they are on the [newschool.edu](http://newschool.edu) homepage), they lose their edge and beome amateurish; the details that were intended to bring the design to life become mistakes instead.
 
-In the typeface is plenty of potential not quite reached: the varying width logos wanting to be [The Public Theater Identity](http://new.pentagram.com/2008/06/new-work-the-public-theater-1/) really bad, but being not quite playful enough, not removed enough from a generic modernist geometric sans to carry a the full weight of the brand's personality.
+In the typeface is plenty of potential not quite reached: the varying width logos wanting to be [The Public Theater Identity](http://new.pentagram.com/2008/06/new-work-the-public-theater-1/) really bad, but being not quite playful enough, not removed enough from a generic modernist geometric sans to carry the full weight of the brand's personality.
 
 ![](http://www.josephatkins.co.uk/public-theater-logo.jpg)
 
@@ -33,3 +33,7 @@ But despite all of those things, despite how much we shake our heads and lament 
 I'll close with this quote from my friend Joe Evans, who actually worked on the water tower mural, because I think it's a nice positive end note and I feel like it sums up what I've been meaning to say.
 
 > The New School is a place for us to grow, learn and become better individuals thorough the experiences it has to offer. The new identity exists and is a reality and it has set the ground-work for “potential” through a visual system, but the work is not done. We must take advantage of this empowering identity of both unity and diversity and grasp the opportunity to collaborate and grow as school, not just as individuals.
+
+>Aside from my feelings regarding the new identity from a design perspective, my main hope is that we can see this as an opportunity to develop and greaten ourselves as a community, as a whole, as a university.
+
+>*I was skeptical about the entire thing myself when I first encountered it, but it slowly grows on you and you learn to love it. It’s New School!*

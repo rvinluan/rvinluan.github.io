@@ -38,7 +38,7 @@ But despite all of those things, despite how much we shake our heads and lament 
 I'll close with this quote from my friend Joe Evans, who actually worked on the water tower mural, because I think it's a positive end note and I feel like it sums things up well.
 
 > The New School is a place for us to grow, learn and become better individuals thorough the experiences it has to offer. The new identity exists and is a reality and it has set the ground-work for “potential” through a visual system, but the work is not done. We must take advantage of this empowering identity of both unity and diversity and grasp the opportunity to collaborate and grow as school, not just as individuals.
-
->Aside from my feelings regarding the new identity from a design perspective, my main hope is that we can see this as an opportunity to develop and greaten ourselves as a community, as a whole, as a university.
-
->*I was skeptical about the entire thing myself when I first encountered it, but it slowly grows on you and you learn to love it. It’s New School!*
+>
+> Aside from my feelings regarding the new identity from a design perspective, my main hope is that we can see this as an opportunity to develop and greaten ourselves as a community, as a whole, as a university.
+>
+> *I was skeptical about the entire thing myself when I first encountered it, but it slowly grows on you and you learn to love it. It’s New School!*

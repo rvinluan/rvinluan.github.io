@@ -23,7 +23,7 @@ Firstly, I should say that the identity does have its strengths, the whole wheat
 
 ![](http://new.pentagram.com/wp-content/uploads/2015/03/TNS_81_Logos_620.jpg)
 
-But the solid concept is in my eyes marred by what seems like an unfinished execution. The letterforms (especially at smaller sizes) are just barely not quirky enough; when over-applied (like they are on the [newschool.edu](http://newschool.edu) homepage), they lose their edge and beome amateurish; the details that were intended to bring the design to life become mistakes instead.
+But the solid concept is in my eyes marred by what seems like an unfinished execution. The letterforms (especially at smaller sizes) are just barely not quirky enough; when over-applied (like they are on the [newschool.edu](http://newschool.edu) homepage), they lose their edge and become amateurish; the details that were intended to bring the design to life become mistakes instead.
 
 The typeface is full of potential not quite reached: the varying width logos wanting to be [The Public Theater Identity](http://new.pentagram.com/2008/06/new-work-the-public-theater-1/) really bad, but not quite playful enough, not removed enough from a generic modernist geometric sans to carry the full weight of the brand's personality.
 

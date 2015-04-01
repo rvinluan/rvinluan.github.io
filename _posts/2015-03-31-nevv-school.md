@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: The Nevv School
-subtitle: Why I'm Not Interested In Hating On The New School's New Branding
+subtitle: "Why I'm Not Interested In Hating On The New School's New Branding"
 ---
 
 ![](http://new.pentagram.com/wp-content/uploads/2015/03/TNS_111.gif)
@@ -21,7 +21,7 @@ That being said, I'd like to follow my own advice and do more than just wag a fi
 
 Firstly, I should say that the identity does have its strengths, the whole wheat bread in our vegan, free range, locally sourced criticism sandwich. The 'Neue' typeface does look provocatively weird at large sizes, and the individual school logos, big and red, lock up nicely with the tiny 'The New School' as an anchor. At billboard sizes, you can really see the quirkyness that loudly declares that The New School isn't just any university; the just-shy-of-acceptable-ness that Siegel+Gale accomplished with a spray paint aesthetic in 2005, replaced now by an algorithmic typeface that chooses from 3 widths of each character. The applications that blow up the type real big (sometimes bleeding them off) are definitely the most successful; you need to be able to see the odd joints and the differences between the widths clearly for the impact to work.
 
-![](http://www.underconsideration.com/brandnew/archives/the_new_school_logo_system.png)
+![](http://new.pentagram.com/wp-content/uploads/2015/03/TNS_81_Logos_620.jpg)
 
 But the solid concept is in my eyes marred by what seems like an unfinished execution. The letterforms (especially at smaller sizes) are just barely not quirky enough; when over-applied (like they are on the [newschool.edu](http://newschool.edu) homepage), they lose their edge and beome amateurish; the details that were intended to bring the design to life become mistakes instead.
 

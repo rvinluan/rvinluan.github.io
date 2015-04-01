@@ -3,6 +3,7 @@ published: true
 layout: post
 title: The Nevv School
 subtitle: Why I'm Not Interested In Hating On The New School's New Branding
+private: true
 ---
 
 ![](http://new.pentagram.com/wp-content/uploads/2015/03/TNS_111.gif)

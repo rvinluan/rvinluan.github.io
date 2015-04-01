@@ -163,7 +163,7 @@ body {
 	font-weight: 200;
 	font-style: italic;
 	font-size: 1.2em;
-	margin: 0;
+	margin: 1em 0;
 }
 
 #main figcaption {
@@ -265,6 +265,10 @@ body {
 
 	#topBar {
 		left: 0;
+	}
+	
+	#main blockquote {
+		padding-left: 1em;
 	}
 }
 

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: The Nevv School
 subtitle: Why I'm Not Interested In Hating On The New School's New Branding

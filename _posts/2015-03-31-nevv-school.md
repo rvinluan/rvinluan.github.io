@@ -7,7 +7,7 @@ subtitle: "Why I'm Not Interested In Hating On The New School's New Branding"
 
 ![](http://new.pentagram.com/wp-content/uploads/2015/03/TNS_111.gif)
 
-[The New School's new branding by Pentagram](http://new.pentagram.com/2015/03/new-work-the-new-school/) lit up social medias yesterday, mostly to disbelief and disgust and jokes about Star Wars.
+[The New School's new branding by Pentagram](http://new.pentagram.com/2015/03/new-work-the-new-school/) lit up the social medias yesterday, mostly to disbelief and disgust and jokes about Star Wars.
 
 [Design criticism is a spectator sport now,](http://designobserver.com/feature/graphic-design-criticism-as-a-spectator-sport/37607/) and it's impossible to rebrand anything in this day and age without everyone and their mother "joining the conversation", as brands like to say. I've heard the loudest voices come from those who are deeply embedded within the community: new school students and alumni, or graphic designers, or very commonly, both. (Disclaimer: I am one of these people.)
 

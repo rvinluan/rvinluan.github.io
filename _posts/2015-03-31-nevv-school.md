@@ -33,7 +33,7 @@ The weakest point of the whole thing for me though has to be the bizzare lack of
 
 As a whole the identity comes off unexplored and unfulfilled. A custom algorithmic typeface to unite many divisions under one brand works well in theory, but not when it's pretty much all you have to work with. Without a sufficiently contrasting typeface, without extreme scale, without colors or patterns or shapes or layouts, it's unimaginative at best and sophomoric at worst (which is perhaps why it invites comparisons to student work from some commenters).
 
-But despite all of those things, despite how much we shake our heads and lament the fact that our supposedly top-teir design school can't even design istelf properly, we still have to remember that this identity, like all identites, is a work in progress. We have to grow with it and shape it and let it shape us back. I can only hope that what comes across to me as mud turns out to actually be clay: something to be molded and transformed into something at least a little more tolerable.
+But despite all of those things, despite how much we shake our heads and lament the fact that our supposedly top-tier design school can't even design istelf properly, we still have to remember that this identity, like all identites, is a work in progress. We have to grow with it and shape it and let it shape us back. I can only hope that what comes across to me as mud turns out to actually be clay: something to be molded and transformed into something at least a little more tolerable.
 
 I'll close with this quote from my friend Joe Evans, who actually worked on the water tower mural, because I think it's a positive end note and I feel like it sums things up well.
 

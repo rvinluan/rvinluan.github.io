@@ -5,7 +5,7 @@ published: false
 
 People are still talking about switching to Sketch, so I figured I'd throw my two cents in. And yes, I'm tossing those pennies into a fountain currently overflowing with other designers' pocket change, but maybe I visualize the metaphor differently and it's not a fountain, but maybe it's a [deep well](https://twitter.com/blk/status/599257346724876289), and maybe there's room for one more blog post?
 
-After using Sketch for about two weeks now, I've been surprised at how quickly I've adapted to it. I felt like I should write a comprehensive list of where I'm at with it, just in case anyone was pondering making the switch. The list itself doesn't take sides, it's just supposed to be as highly detailed as possible. And hopefully someone can add to it, or correct me, or even learn something about Sketch they didn't know.
+After using Sketch for about two weeks now, I've been surprised at how quickly I've adapted to it. I felt like I should write a comprehensive list of where I'm at, just in case anyone was pondering making the switch. The list itself doesn't take sides, it's just supposed to be as highly detailed as possible -- down to the most seemingly insignificant issue. And hopefully someone can add to it, or correct me, or even learn something about Sketch they didn't know.
 
 ##Part 1: The Good
 - Holy Artboards Batman, exporting in Sketch is awesome. In Illustrator, exporting specific artboards required looking up the artboard number (or numbers!) and then entering them into a box in the export dialogue, which was, to put it lightly, maddening. Also Sketch can export arbitrary objects and groups, a feature which I can only react to by making the gesture Italian chefs make when they kiss their fingertips and then do a little ~explosion~.
@@ -23,12 +23,13 @@ After using Sketch for about two weeks now, I've been surprised at how quickly I
 - I wasn't sure if this was good or bad so I put it under good. Sketch's align tools take away the ability to choose what you're aligning to -- either the selected objects or the artboard. Mostly this is actually ok, because it can automatically detect the right answer. But it *is* missing 'align to key object': an Illustrator tool that lets you align multiple objects to one arbitrary one. This is really useful for times when you have one icon in the right place and you just need to move the others, but aligning to the selection would move them all. I've found in my experience that Sketch will often guess this automatically as well, but not having the explicit option still makes me wary.
 
 
-##The Bad
-crating new shortcuts
-lack of a move tool
-typography capabilities
-	typeface chooser
-    lack of a glyphs panel
+##Part 2: The Bad
+- I've gotten so used to using shortcuts in Illustrator that my left hand operates through reflexive reaction at this point rather than conscious decision. Sketch has completely different shortcuts, but that's not really a problem: beyond that, it's really the fact that lots of menu commands don't have shortcuts set by default. And you can add your own shortcuts, but it's a tedius multi-step process compared to Illustrator, which gives you a menu in the app and even lets you save shortcut profiles.
+
+- When I have to move something around in Sketch, which I'd say is about 95% of the time, I basically have to have no tool selected. Which means that I press ESC a LOT. It'd be much easier just to have a move tool and map it to something close to the home row. 
+
+- This is actually my biggest gripe, but man, Sketch needs to grow up and get some big boy typography tools. Kerning has been exiled to a nested menu, choosing a typface is much harder than it needs to be (why restart the list from the top every time I open the menu? It makes it impossible to step through typefaces), and there are lots of things it actually completely lacks: text indents (which also prevents drop caps and hanging punctuation) toggle certain opentype features.
+
 copy paste
 fast border/fill adjustments
 having to hit enter when filling in hex values

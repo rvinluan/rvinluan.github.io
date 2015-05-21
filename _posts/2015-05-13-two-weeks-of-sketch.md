@@ -5,11 +5,12 @@ title: Two Weeks of Sketch
 ---
 
 
+
 People are still talking about switching to Sketch, so I figured I'd throw my two cents in. And yes, I'm tossing those pennies into a fountain currently overflowing with other designers' pocket change, but maybe I visualize the metaphor differently and it's not a fountain, but maybe it's a [deep well](https://twitter.com/blk/status/599257346724876289), and maybe there's room for one more blog post?
 
 After using Sketch for about two weeks now, I've been surprised at how quickly I've adapted to it. I felt like I should write a comprehensive list of where I'm at, just in case anyone was pondering making the switch. The list itself doesn't take sides, it's just supposed to be as highly detailed as possible -- down to the most seemingly insignificant issue. And hopefully someone can add to it, or correct me, or even learn something about Sketch they didn't know.
 
-##Part 1: The Good
+###Part 1: The Good
 
 Holy Artboards Batman, exporting in Sketch is awesome. In Illustrator, exporting specific artboards requires looking up the artboard number (or numbers!) and then entering them into a box in the export dialogue, which was, to put it lightly, maddening. Also Sketch can export arbitrary objects and groups, a feature which I can only react to by making the gesture Italian chefs make when they kiss their fingertips and then do a little ~explosion~.
 
@@ -26,7 +27,7 @@ Creating new plugins is dead simple, mostly because the documentation is straigh
 I wasn't sure if this was good or bad so I put it under good. Sketch's align tools take away the ability to choose what you're aligning to -- either the selected objects or the artboard. Most of the time this is actually ok, because it can automatically detect the right answer. But it *is* missing 'align to key object': an option that lets you align multiple objects to one arbitrary one. This is really useful for times when you have one icon in the right place and you just need to move the others, but aligning to the selection would move them all. I've found in my experience that Sketch will often guess this automatically as well, but not having the explicit option still makes me suspicious.
 
 
-##Part 2: The Bad
+###Part 2: The Bad
 
 I've gotten so used to using shortcuts in Illustrator that my left hand operates through reflexive reaction at this point rather than conscious decision. Sketch has completely different shortcuts, but that's not really a problem: it's really the fact that lots of menu commands don't have shortcuts set by default. And you can add your own shortcuts, but it's a tedius multi-step process compared to Illustrator, which gives you a menu in the app and even lets you save shortcut profiles.
 
@@ -38,7 +39,7 @@ The copy/paste behavior baffles me. Let's pretend I copy something, then move ov
 
 You have to hit enter when you're entering hex values for colors, otherwise they won't apply. The insignificance:frustration ratio of this one is off the charts.
 
-##Part 3: The Stuff I Learned
+###Part 3: The Stuff I Learned
 
 Lots of times when I complain Sketch doesn't have something, someone informs me that it does, so here's a list of things I didn't know you could do until recently:
 
@@ -48,6 +49,6 @@ I was quite offended that it didn't seem easy to zoom at any intervals between 5
 
 The distinction between Illustrator's selection tool and direct selection tool was one that didn't seem to apply to Sketch, which was the bane of my existence whenever I needed to access layers in deeply nested groups. But I was on Bohemian Coding's website and found that you can select individual objects no matter how deeply nested by holding down cmd and then clicking.
 
-##Part 4: So Which One Do You Like Better?
+###Part 4: So Which One Do You Like Better?
 
 This list is supposed to be neutral as far as this debate is concerned, but Sketch is undoubtedly better for UI design (websites and mobile apps) at the moment and Illustrator seems to be better at everything else (actual illustration, everything print). Which is the way it's supposed to be, isn't it?

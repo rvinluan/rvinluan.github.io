@@ -28,10 +28,22 @@ After using Sketch for about two weeks now, I've been surprised at how quickly I
 
 - When I have to move something around in Sketch, which I'd say is about 95% of the time, I basically have to have no tool selected. Which means that I press ESC a LOT. It'd be much easier just to have a move tool and map it to something close to the home row (like v for example?). I do realize that Sketch tries to do its best to infer when you want to move things so you don't have to switch tools, but my shorcut reflexes can hit a key fast enough so that it's not a drawback but does help me be more precise and predictable.
 
-- This one is actually my biggest gripe, but man, Sketch needs to grow up and get some big boy typography tools. Kerning has been exiled to a nested menu, choosing a typface is much harder than it needs to be (why restart the list from the top every time I open the menu?), and there are lots of things it's actually impossible to do: text indents, drop caps, hanging punctuation, and toggling certain opentype features (I miss oldstyle numerals!). There's also no glyphs panel, which makes it hard to do things like use icon fonts.
+- This one is actually my biggest gripe, but man, Sketch needs to grow up and get some big boy typography tools. Kerning has been exiled to a nested menu, choosing a typface is much harder than it needs to be (1, there's no autocomplete for typing in names, and 2, why restart the list from the top every time I open the menu?), and there are lots of things it's actually impossible to do: text indents, drop caps, hanging punctuation, and toggling certain opentype features (I miss oldstyle numerals!). There's also no glyphs panel, which makes it hard to do things like use icon fonts.
 
-- The copy/paste behavior baffles me. Let's pretend I copy something, then move over to another artboard that's quite large so I'm currently zoomed into the very bottom, where I want the pasted item to go. If I hit cmd+v, it'll paste into the center. If I hit cmd+shift+v, it'll paste into the top left corner of the artboard. Only if I right click and select 'paste here' will it paste the copied object anywhere in my visible viewport. And in case you haven't picked up on it yet, I hate when programs force me to use the mouse.
+- The copy/paste behavior baffles me. Let's pretend I copy something, then move over to another artboard that's quite large so I'm currently zoomed into the very bottom, where I want the pasted item to go. If I hit cmd+v, it'll paste into the center of the artboard, where I can't see. If I hit cmd+shift+v, it'll paste into the top left corner of the artboard, where I also can't see. Only if I right click and select 'paste here' will it paste the copied object anywhere in my visible viewport. And in case you haven't picked up on it yet, I hate when programs force me to use the mouse.
 
-- You have to hit enter when you're entering hex values for colors, otherwise they won't take. The insignificance:frustration ratio of this one is off the charts.
+- You have to hit enter when you're entering hex values for colors, otherwise they won't apply. The insignificance:frustration ratio of this one is off the charts.
 
-- 
+##Part 3: The Stuff I Learned
+
+Lots of times when I complain Sketch doesn't have something, someone informs me that it does, so here's a list of things I didn't know you could do until recently:
+
+- Presentation mode! I missed Illustrator's floating panels that I could move out of the way if I needed more room, but then I found Sketch's presentation mode, which is very similar to InDesign's, in that it is awesome.
+
+- I was quite offended that it didn't seem easy to zoom at any intervals between 50% and 100%, but then I realized you could hold down cmd and use the scroll wheel to zoom, to any interval your heart desires.
+
+- The distinction between Illustrator's selection tool and direct selection tool was one that didn't seem to exist in Sketch, which was the bane of my existence whenever I needed to access layers in deeply nested groups. But I was on Bohemian Coding's website and found that you can select individual objects no matter how deeply nested by holding down cmd and then clicking.
+
+##Part 4: So Which One Do You Like Better?
+
+This list is supposed to be neutral as far as this debate is concerned, but Sketch is undoubtedly better for UI design (websites and mobile apps) at the moment and Illustrator seems to be better at everything else (actual illustration, everything print). Which is the way it's supposed to be, isn't it?

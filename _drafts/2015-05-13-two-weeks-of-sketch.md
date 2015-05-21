@@ -8,6 +8,7 @@ People are still talking about switching to Sketch, so I figured I'd throw my tw
 After using Sketch for about two weeks now, I've been surprised at how quickly I've adapted to it. I felt like I should write a comprehensive list of where I'm at, just in case anyone was pondering making the switch. The list itself doesn't take sides, it's just supposed to be as highly detailed as possible -- down to the most seemingly insignificant issue. And hopefully someone can add to it, or correct me, or even learn something about Sketch they didn't know.
 
 ##Part 1: The Good
+
 Holy Artboards Batman, exporting in Sketch is awesome. In Illustrator, exporting specific artboards requires looking up the artboard number (or numbers!) and then entering them into a box in the export dialogue, which was, to put it lightly, maddening. Also Sketch can export arbitrary objects and groups, a feature which I can only react to by making the gesture Italian chefs make when they kiss their fingertips and then do a little ~explosion~.
 
 Smart guides are pretty smart! I especially like how they infer spacing between repeated elements, which is useful for maintaining vertical rythym. They can be too smart for their own good sometimes, but there's a command to toggle them off, which you'll need to set your own keyboard shortcut for.

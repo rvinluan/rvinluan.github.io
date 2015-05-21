@@ -6,17 +6,18 @@ title: Two Weeks of Sketch
 
 
 
+
 People are still talking about switching to Sketch, so I figured I'd throw my two cents in. And yes, I'm tossing those pennies into a fountain currently overflowing with other designers' pocket change, but maybe I visualize the metaphor differently and it's not a fountain, but maybe it's a [deep well](https://twitter.com/blk/status/599257346724876289), and maybe there's room for one more blog post?
 
 After using Sketch for about two weeks now, I've been surprised at how quickly I've adapted to it. I felt like I should write a comprehensive list of where I'm at, just in case anyone was pondering making the switch. The list itself doesn't take sides, it's just supposed to be as highly detailed as possible -- down to the most seemingly insignificant issue. And hopefully someone can add to it, or correct me, or even learn something about Sketch they didn't know.
 
 ###Part 1: The Good
 
-Holy Artboards Batman, exporting in Sketch is awesome. In Illustrator, exporting specific artboards requires looking up the artboard number (or numbers!) and then entering them into a box in the export dialogue, which was, to put it lightly, maddening. Also Sketch can export arbitrary objects and groups, a feature which I can only react to by making the gesture Italian chefs make when they kiss their fingertips and then do a little ~explosion~.
+Holy Artboards Batman, exporting in Sketch is awesome. In Illustrator, exporting specific artboards requires looking up the artboard number (or numbers!) and then entering them into a box in the export dialogue, which was, to put it lightly, maddening. Also Sketch can export arbitrary objects and groups, a feature which I can only react to by making the gesture chefs make when they kiss their fingertips and then do a little ~explosion~.
 
-Smart guides are pretty smart! I especially like how they infer spacing between repeated elements, which is useful for maintaining vertical rythym. They can be too smart for their own good sometimes, and they get confused when you start ha ving a ton of objects on the screen, but there's a command to toggle them off, which you'll need to set your own keyboard shortcut for.
+Smart guides are pretty smart! I especially like how they infer spacing between repeated elements, which is useful for maintaining vertical rythym. They can be too smart for their own good sometimes, and they get confused when you start having a ton of objects on the screen, but there's a command to toggle them off, which you'll need to set your own keyboard shortcut for.
 
-InDesign-esque shared styles are one of my favorite features, but they would be more useful if they were a little bit more intelligent. A particular pain point I have is that I'll set some type to an existing shared style, say 'header', but I'll want this header to be a bit smaller, so I go and decrease the font size a bit. In InDesign, this would create a new style, 'header\*' (read: header but slightly modified). It wouldn't retroactively apply those changes to all the other header objects unless you explicitly told it to (the command is called 'redefine character style'). Most of the time, this is what I want, but Sketch doesn't work this way, so I often find myself setting a text style and then un-setting it just so it won't affect other text in my document.
+InDesign-esque shared styles are one of my favorite features, but they would be more useful if they were a little bit more intelligent. A particular pain point I have is that I'll set some type to an existing shared style, 'header' for example, but I'll want this header to be a bit smaller, so I go and decrease the font size a bit. In InDesign, this would create a new style, 'header\*' (read: header but slightly modified). It wouldn't retroactively apply those changes to all the other header objects unless you explicitly told it to (the command is called 'redefine character style'). Most of the time, this is what I want, but Sketch doesn't work this way, so I often find myself setting a text style and then un-setting it just so it won't affect other text in my document.
 
 Most values in Sketch (position, size, transforms, font size, leading, etc) can be dragged like sliders so you can tweak the value to be juuuuust right. This is amazing and it's something I never knew I needed until Sketch. (jk After Effects does this and it's great)
 
@@ -37,7 +38,7 @@ This one is actually my biggest gripe, but man, Sketch needs to grow up and get 
 
 The copy/paste behavior baffles me. Let's pretend I copy something, then move over to another artboard that's quite large so I'm currently zoomed into the very bottom, where I want the pasted item to go. If I hit cmd+v, it'll paste into the center of the artboard, where I can't see it. If I hit cmd+shift+v, it'll paste into the top left corner of the artboard, where I also can't see it. Only if I right click and select 'paste here' will it drop the copied object somewhere within my visible viewport. And in case you haven't picked up on it yet, I hate when programs force me to use my mouse.
 
-You have to hit enter when you're entering hex values for colors, otherwise they won't apply. The insignificance:frustration ratio of this one is off the charts.
+Also, you have to hit enter when you're entering hex values for colors, otherwise they won't apply. The insignificance:frustration ratio of this one is off the charts.
 
 ###Part 3: The Stuff I Learned
 
@@ -45,10 +46,10 @@ Lots of times when I complain Sketch doesn't have something, someone informs me 
 
 Presentation mode! I missed Illustrator's floating panels that I could move out of the way if I needed more room, but then I found Sketch's presentation mode, which is very similar to InDesign's, in that it is awesome.
 
-I was quite offended that it didn't seem easy to zoom at any intervals between 50% and 100%, but then I realized you could hold down cmd and use the scroll wheel to zoom, to any level your heart desires.
+I was quite offended that it didn't seem easy to zoom at any intervals between 50% and 100%, but then I realized you could hold down cmd and use the scroll wheel to zoom, and I was once again at peace with the universe.
 
 The distinction between Illustrator's selection tool and direct selection tool was one that didn't seem to apply to Sketch, which was the bane of my existence whenever I needed to access layers in deeply nested groups. But I was on Bohemian Coding's website and found that you can select individual objects no matter how deeply nested by holding down cmd and then clicking.
 
 ###Part 4: So Which One Do You Like Better?
 
-This list is supposed to be neutral as far as this debate is concerned, but Sketch is undoubtedly better for UI design (websites and mobile apps) at the moment and Illustrator seems to be better at everything else (actual illustration, everything print). Which is the way it's supposed to be, isn't it?
+This list is supposed to be neutral as far as this debate is concerned, but personally, I'm leaning towards Sketch being better for UI design (websites and mobile apps) at the moment and Illustrator being better at everything else (actual illustration, everything print). Which is the way it's supposed to be, isn't it?

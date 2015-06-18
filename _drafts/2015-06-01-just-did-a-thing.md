@@ -26,7 +26,7 @@ Both the X and the Y part were imperfect and lots of things still tripped them u
 
 ###v2
 
-Using the RiTa library, which I found out about via Darius Kazemi's blog post about his Sorting Hat bot, I was able to generate random verbs in specific tenses, and improve my searches with a little more specificity. Now I could generate a random past tense verb and search twitter for 'I just [verbed]'. I also changed the method for searching for the Y bit: now that I could search specifically for the present participle, I could find tweets with '[verbing]' and get an operative by finding the 'thought endings', with a similar approach as the X bit. 
+Using the [RiTa library](https://rednoise.org/rita/), which I found out about via [Darius Kazemi's blog post about his Sorting Hat bot](http://tinysubversions.com/notes/sorting-bot/), I was able to generate random verbs in specific tenses, and improve my searches with a little more specificity. Now I could generate a random past tense verb and search twitter for 'I just [verbed]'. I also changed the method for searching for the Y bit: now that I could search specifically for the present participle, I could find tweets with '[verbing]' and get an operative by finding the 'thought endings', with a similar approach as the X bit. 
 
 This made the output a little better, but not by much. I was still getting a lot of junk. But I guess garbage in, garbage out is what they say right?
 

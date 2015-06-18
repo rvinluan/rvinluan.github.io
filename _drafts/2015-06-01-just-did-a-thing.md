@@ -59,6 +59,6 @@ The current version also introduces other phrases into the mix, so instead of ju
 
 I'd love to be able to detect run-on sentences, but for now my proxy for them is another first person term like "I'm" or "I'll", which usually signal the start of a run-on.
 
-Right now the bot's biggest weakness is when people use verbs as adjectives, which I can't detect properly. For example, it thinks "living room floor" is a verb phrase, which doesn't make sense. Also, my use of "I just" is presumptuous because it assumes the start of the sentence, but often the bot will get tripped up by things like "The rug I just bought".
+Right now the bot's biggest weakness is when people use verbs as adjectives, which I can't detect properly. For example, it thinks "living room floor" is a verb phrase, which doesn't make sense. Also, my use of "I just" is presumptuous because it assumes the start of the sentence, but often the bot will get tripped up by sentences like "The rug I just bought", which has an implied "that", but I haven't figured out how to solve that just yet.
 
 If you're interested, you can see the full source code [here](https://github.com/rvinluan/status_updates).

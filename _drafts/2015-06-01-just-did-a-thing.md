@@ -15,7 +15,7 @@ I went through a bunch of iterations, so this blog post is a documentation of ho
 
 The first version of the bot, at its simplest, searches Twitter for tweets in the form of "I just X" and "Y is fun" and then combined the two, into "I just X, in case you were wondering how Y is going". 
 
-Here's the thing about searching Tweets: X and Y can be *anything*. Often it's bits that don't make sense when recontextualized: links, twitter handles, emoji. Even more often, it's grammatically incorrect. And frustratingly, a lot of it has content that is very hard to programatically address: misspellings, run-on sentences, proper nouns, abbreviations, and lots and lots of slang (smdh). 
+Here's the thing about using Tweets as a corpus: X and Y can be *anything*. Often it's bits that don't make sense when recontextualized: links, twitter handles, emoji. Even more often, it's grammatically incorrect. And frustratingly, a lot of it has content that is very hard to programatically address: misspellings, run-on sentences, proper nouns, abbreviations, and lots and lots of slang (smdh). 
 
 For the first part, "I just X", which we can call the X part, I have to find just the operative part of the sentence, i.e. the action (I just farted...), and not any supplementary information (...and it smelled). To do this I put together a Regular Expression that would find the part of the tweet that signaled the end of a 'thought': conjunctions (and, but, therefore), punctuation (:, -), new line characters, and also things that I wanted to filter out, namely links and twitter handles (Can't have my bot spamming!).
 

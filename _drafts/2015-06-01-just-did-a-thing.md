@@ -26,7 +26,7 @@ Both the X and the Y part were imperfect and lots of things still tripped them u
 
 ###v2
 
-Using the [RiTa library](https://rednoise.org/rita/), which I found out about via [Darius Kazemi's blog post about his Sorting Hat bot](http://tinysubversions.com/notes/sorting-bot/), I was able to generate random verbs in specific tenses, and improve my searches with a little more specificity. Now I could generate a random past tense verb and search twitter for 'I just [verbed]'. I also changed the method for searching for the Y bit: now that I could search specifically for the present participle, I could find tweets with '[verbing]' and get an operative by finding the 'thought endings', with a similar approach as the X bit. 
+Using the [RiTa library](https://rednoise.org/rita/), which I found out about via [Darius Kazemi's blog post about his Sorting Hat bot](http://tinysubversions.com/notes/sorting-bot/), I was able to generate random verbs in specific tenses, and improve my searches with a little more specificity. Now I could generate a random past tense verb and search twitter for 'I just [verbed]'. I also changed the method for searching for the Y part: now that I could search specifically for the present participle, I could find tweets with '[verbing]' and get an operative by finding the 'thought endings', with a similar approach as the X part. 
 
 This made the output a little better, but not by much. I was still getting a lot of junk. But I guess garbage in, garbage out is what they say right?
 
@@ -41,13 +41,13 @@ During this phase I also made some more incremental improvements which I was abl
 
 ###v3
 
-The Y bit of the bot's version 1 could generate noun phrases ("my day", "the semester") as well as verb phrases ("having a puppy"), whereas version 2, because it was seeded with a random verb, always contained said verb. I liked both, so Version 3 picks randomly between the two (weighted for v2 70% of the time, just because it's more reliable).
+The Y part of the bot's version 1 could generate noun phrases ("my day", "the semester") as well as verb phrases ("having a puppy"), whereas version 2, because it was seeded with a random verb, always contained said verb. I liked both, so Version 3 picks randomly between the two (weighted for v2 70% of the time, just because it's more reliable).
 
 I also made the change at this point to pick random emotions (from a hard coded list) so that instead of searching for "Y is fun", it could also sometimes search for "Y is perfect" or "Y is lame", etc.
 
 ###v4 (current)
 
-In v3, The Y bit would search for a present participle verb phrase (to find things like "driving at night") and try and find the relevant snippet by working backwards from the end of the tweet to wherever the noun was ("night", in the aforementioned example). This was optimized to produce long phrases: I wanted to disregard the tweets that simply said "driving is fun" and nothing more.
+In v3, The Y part would search for a present participle verb phrase (to find things like "driving at night") and try and find the relevant snippet by working backwards from the end of the tweet to wherever the noun was ("night", in the aforementioned example). This was optimized to produce long phrases: I wanted to disregard the tweets that simply said "driving is fun" and nothing more.
 
 But what I found was that the longer phrases were too specific. The humour was lost because it was impossible to reconcile the two halves of the tweet. Thus, vague short phrases worked the best because they could have different interperetations applied to them.
 

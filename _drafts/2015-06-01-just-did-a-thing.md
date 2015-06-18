@@ -7,7 +7,7 @@ published: false
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">just plugged in my headphones so I could hear Netflix over the sound of me eating crunchy cereal, if you were wondering how my day was going</p>&mdash; Robert Vinluan (@RobertVinluan) <a href="https://twitter.com/RobertVinluan/status/561603474492641280">January 31, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I see Tweets like this sometimes, and they're always pretty funny, so I wanted to see if I could build a bot that generates phrases of the same form. I figured it'd be a good opportunity for some funny juxtapostions as well as a good exercise working with structured grammars and also I haven't built a Twitter bot in a while, so last weekend I sat down and coded it up.
+I see Tweets like this sometimes, and they're always pretty funny, so I wanted to see if I could build a bot that generates phrases of the same form. I figured it'd be a good opportunity for some funny juxtapositions as well as a good exercise working with structured grammars and also I haven't built a Twitter bot in a while, so last weekend I sat down and coded it up.
 
 I went through a bunch of iterations, so this blog post is a documentation of how the bot works but also how I made it and what I improved to get it to where it is.
 
@@ -30,11 +30,11 @@ Using the [RiTa library](https://rednoise.org/rita/), which I found out about vi
 
 This made the output a little better, but not by much. I was still getting a lot of junk. But I guess garbage in, garbage out is what they say right?
 
-During this phase I also made some more incremental improvements which I was able to do simply by monitoring a lot of input and adjusting ot it. For example:
+During this phase I also made some more incremental improvements which I was able to do simply by monitoring a lot of input and adjusting to it. For example:
 
 - I started to throw out tweets with links, because they tended to be either spam or news, and headlines don't usually have the best grammar.
 
-- I removed trailing prepositions, because sometimes sentences would get cut off in the middle, and also you're not suppopsed to end a sentence in a preposition, right?
+- I removed trailing prepositions, because sometimes sentences would get cut off in the middle, and also you're not supposed to end a sentence in a preposition, right?
 
 - I changed all possessives to 'my', so tweets like '...if you were wondering how her day is going' would make more slightly sense.
 
@@ -49,7 +49,7 @@ I also made the change at this point to pick random emotions (from a hard coded 
 
 In v3, The Y part would search for a present participle verb phrase (to find things like "driving at night") and try and find the relevant snippet by working backwards from the end of the tweet to wherever the noun was ("night", in the aforementioned example). This was optimized to produce long phrases: I wanted to disregard the tweets that simply said "driving is fun" and nothing more.
 
-But what I found was that the longer phrases were too specific. The humour was lost because it was impossible to reconcile the two halves of the tweet. Thus, vague short phrases worked the best because they could have different interperetations applied to them.
+But what I found was that the longer phrases were too specific. The humour was lost because it was impossible to reconcile the two halves of the tweet. Thus, vague short phrases worked the best because they could have different interpretations applied to them.
 
 To solve this I wrote a function that would choose phrases with a bias for 3-4 words, followed by 5+ words, followed by 1-2 words (which are too boring). 
 

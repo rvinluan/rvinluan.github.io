@@ -3,10 +3,11 @@ published: false
 ---
 
 
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">just plugged in my headphones so I could hear Netflix over the sound of me eating crunchy cereal, if you were wondering how my day was going</p>&mdash; Robert Vinluan (@RobertVinluan) <a href="https://twitter.com/RobertVinluan/status/561603474492641280">January 31, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I see Tweets like this sometimes, and they're always pretty funny, so I wanted to see if I could build a bot that generates phrases of the same form. I figured it'd be a good opportunity for some funny juxtapositions as well as a good exercise working with structured grammars and also I haven't built a Twitter bot in a while, so last weekend I sat down and coded it up.*
+I see Tweets like this sometimes, and they're always pretty funny, so I wanted to see if I could build a bot that generates phrases of the same form. I figured it'd be a good opportunity for some funny juxtapositions as well as a good exercise working with structured grammars. Also I haven't built a Twitter bot in a while, so last weekend I sat down and coded it up.*
 
 I went through a bunch of iterations, so this blog post is a documentation of how the bot works but also how I made it and what I improved to get it to where it is.
 
@@ -74,3 +75,5 @@ I'd love to be able to detect run-on sentences, but for now my proxy for them is
 Right now the bot's biggest weakness is when people use verbs as adjectives, which I can't detect properly. For example, it thinks "living room floor" is a verb phrase, which doesn't make sense. I partially solved the above example by not allowing phrases in the form of `vbg nn nn`, but sometimes things still slip through. Also, my use of "I just" is presumptuous because it assumes the start of the sentence or phrase, but often the bot will get tripped up by sentences like "The rug I just bought", which has an implied "that". If anyone knows how to figure out how to account for this stuff, let me know.
 
 If you're interested, you can see the full source code [here](https://github.com/rvinluan/status_updates).
+
+I also made a diagram/flow chart to explain how it works, [if you're into that kind of stuff.](http://i.imgur.com/V1SEAZs.png)

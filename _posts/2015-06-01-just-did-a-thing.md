@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: I Just Did A Thing
-subtitle: "Making and Explanation of @justdidathing aka Status Updates."
+subtitle: The Making and Explanation of @justdidathing (aka Status Updates)
 ---
 
 

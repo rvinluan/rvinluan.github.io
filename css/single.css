@@ -198,6 +198,11 @@ body {
 	margin: 1em auto 2em auto;
 }
 
+#main .embedded-media {
+	width: 100%;
+	margin: 3em auto 2em auto;
+}
+
 #main .strikethrough {
 	text-decoration: line-through;
 }

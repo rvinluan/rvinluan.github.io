@@ -2,9 +2,8 @@
 published: true
 layout: post
 title: I Just Did A Thing
-subtitle: Making and Explanation of @justdidathing aka Status Updates.
+subtitle: "Making and Explanation of @justdidathing aka Status Updates."
 ---
-
 
 
 
@@ -81,3 +80,7 @@ Right now the bot's biggest weakness is when people use verbs as adjectives, whi
 If you're interested, you can see the full source code [here](https://github.com/rvinluan/status_updates).
 
 I also made a diagram/flow chart to explain how it works, [if you're into that kind of stuff.](http://i.imgur.com/V1SEAZs.png)
+
+
+
+* I did code v1 in a weekend, but after all the iterations (plus the time it took me to write this blog post), it's been more like three weeks.

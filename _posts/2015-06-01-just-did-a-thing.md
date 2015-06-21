@@ -2,13 +2,15 @@
 published: true
 layout: post
 title: I Just Did A Thing
-subtitle: The Making and Explanation of @justdidathing (aka Status Updates)
+subtitle: "The Making and Explanation of @justdidathing (aka Status Updates)"
 ---
 
 
 
+<div class="embedded-media">
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">just plugged in my headphones so I could hear Netflix over the sound of me eating crunchy cereal, if you were wondering how my day was going</p>&mdash; Robert Vinluan (@RobertVinluan) <a href="https://twitter.com/RobertVinluan/status/561603474492641280">January 31, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 I see Tweets like this sometimes, and they're always pretty funny, so I wanted to see if I could build a bot that generates phrases of the same form. I figured it'd be a good opportunity for some funny juxtapositions as well as a good exercise working with structured grammars. Also I haven't built a Twitter bot in a while, so last weekend I sat down and coded it up.*
 

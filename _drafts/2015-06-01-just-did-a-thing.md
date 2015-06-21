@@ -2,10 +2,11 @@
 published: false
 ---
 
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">just plugged in my headphones so I could hear Netflix over the sound of me eating crunchy cereal, if you were wondering how my day was going</p>&mdash; Robert Vinluan (@RobertVinluan) <a href="https://twitter.com/RobertVinluan/status/561603474492641280">January 31, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I see Tweets like this sometimes, and they're always pretty funny, so I wanted to see if I could build a bot that generates phrases of the same form. I figured it'd be a good opportunity for some funny juxtapositions as well as a good exercise working with structured grammars and also I haven't built a Twitter bot in a while, so last weekend I sat down and coded it up.
+I see Tweets like this sometimes, and they're always pretty funny, so I wanted to see if I could build a bot that generates phrases of the same form. I figured it'd be a good opportunity for some funny juxtapositions as well as a good exercise working with structured grammars and also I haven't built a Twitter bot in a while, so last weekend I sat down and coded it up.*
 
 I went through a bunch of iterations, so this blog post is a documentation of how the bot works but also how I made it and what I improved to get it to where it is.
 
@@ -13,18 +14,20 @@ I went through a bunch of iterations, so this blog post is a documentation of ho
 
 The first version of the bot, at its simplest, searches Twitter for tweets in the form of "I just X" and "Y is fun" and then combined the two, into "I just X, in case you were wondering how Y is going". 
 
-Here's the thing about using Tweets as a corpus: X and Y can be *anything*. Often it's bits that don't make sense when recontextualized: links, twitter handles, emoji. Even more often, it's grammatically incorrect. And frustratingly, a lot of it has content that is very hard to programatically address: misspellings, run-on sentences, proper nouns, abbreviations, and lots and lots of slang (smdh). 
+"I just X" is pretty straightfoward, but for Y, I was specifically looking for things that could perhaps be classified as 'activities': driving the car, attending school, watching Breaking Bad, things like that. But Y should also have the ability to be a noun phrase, e.g. my school, or the concert. 
 
-For the first part, "I just X", which we can call the X part, I have to find just the operative part of the sentence, i.e. the action (I just farted...), and not any supplementary information (...and it smelled). To do this I put together a Regular Expression that would find the part of the tweet that signaled the end of a 'thought': conjunctions (and, but, therefore), punctuation (:, -), new line characters, and also things that I wanted to filter out, namely links and twitter handles (Can't have my bot spamming!).
+For the first part, "I just X", I have to find just the operative part of the sentence, i.e. the action (I just farted...), and not any supplementary information (...and it smelled). To do this I put together a Regular Expression that would find the part of the tweet that signaled the end of a 'thought': conjunctions (and, but, therefore), punctuation (:, -), new line characters, etc. This also included things that I wanted to filter out, namely links and twitter handles (Can't have my bot spamming people!).
 
-The Y part, "Y is fun", was harder because it was more vague. The solution I came up with for dealing with these tweets is as follows: isolate the 3 words preceding the "is fun", and try to determine whether or not they make sense in the final sentence. To do this, I tested the parts of speech of the 3 words against a hard coded list of sequences I knew would generally work. For example, `vbg prp$ nn` (verb gerund, possessive, noun), which would cover things like "combing my hair". 
+The Y part, "Y is fun", was harder because it was more vague. The solution I came up with for dealing with these tweets is as follows: isolate the 4 words (or fewer) preceding the "is fun", and try to determine whether or not they make sense in the final sentence. To do this, I tested the parts of speech of the 4 words against a hard coded list of sequences I knew would generally work. For example, `vbg prp$ nn` (verb gerund, possessive, noun), which would cover things like "combing my hair". 
+
+The thing about using Tweets as a corpus though, is that X and Y can be *anything*. Often things that don't make sense when recontextualized: links, twitter handles, emoji. And often, it's grammatically incorrect, in ways that are frustratingly difficult to programatically address: misspellings, run-on sentences, proper nouns, abbreviations, and lots and lots of slang (smdh). 
 
 Both the X and the Y part were imperfect and lots of things still tripped them up. But this got me off the ground and I ran the bot for a few days to see how it went, the whole time improving the algorithm by learning how to deal with more and more situations I had not been anticipating.
 
 
 ###v2
 
-Using the [RiTa library](https://rednoise.org/rita/), which I found out about via [Darius Kazemi's blog post about his Sorting Hat bot](http://tinysubversions.com/notes/sorting-bot/), I was able to generate random verbs in specific tenses, and improve my searches with a little more specificity. Now I could generate a random past tense verb and search twitter for 'I just [verbed]'. I also changed the method for searching for the Y part: now that I could search specifically for the present participle, I could find tweets with '[verbing]' and get an operative by finding the 'thought endings', with a similar approach as the X part. 
+Using the [RiTa library](https://rednoise.org/rita/), which I found out about via [Darius Kazemi's blog post about his Sorting Hat bot](http://tinysubversions.com/notes/sorting-bot/), I was able to generate random verbs in specific tenses, and improve my searches with a little more specificity. For the X part, I could now generate a random past tense verb and search twitter for 'I just [verbed]'. For the Y, now that I could search specifically for the present participle, I could find tweets containing '[verbing]' and go from there. 
 
 This made the output a little better, but not by much. I was still getting a lot of junk. But I guess garbage in, garbage out is what they say right?
 
@@ -32,7 +35,7 @@ During this phase I also made some more incremental improvements which I was abl
 
 - I started to throw out tweets with links, because they tended to be either spam or news, and headlines don't usually have the best grammar.
 
-- I removed trailing prepositions, because sometimes sentences would get cut off in the middle, and also you're not supposed to end a sentence in a preposition, right?
+- I removed trailing prepositions, because sometimes sentences would get cut off in the middle, and you're not supposed to end a sentence in a preposition, right?
 
 - I changed all possessives to 'my', so tweets like '...if you were wondering how her day is going' would make more slightly sense.
 

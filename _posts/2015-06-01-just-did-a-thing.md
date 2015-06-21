@@ -20,7 +20,7 @@ I went through a bunch of iterations, so this blog post is a documentation of ho
 
 The first version of the bot, at its simplest, searches Twitter for tweets in the form of "I just X" and "Y is fun" and then combined the two, into "I just X, in case you were wondering how Y is going". 
 
-"I just X" is pretty straightfoward, but for Y, I was specifically looking for things that could perhaps be classified as 'activities': driving the car, attending school, watching Breaking Bad, things like that. But Y should also have the ability to be a noun phrase, e.g. my school, or the concert. 
+"I just X" is pretty straightforward, but for Y, I was specifically looking for things that could perhaps be classified as 'activities': driving the car, attending school, watching Breaking Bad, things like that. But Y should also have the ability to be a noun phrase, e.g. my school, or the concert. 
 
 For the first part, "I just X", I have to find just the operative part of the sentence, i.e. the action (I just farted...), and not any supplementary information (...and it smelled). To do this I put together a Regular Expression that would find the part of the tweet that signaled the end of a 'thought': conjunctions (and, but, therefore), punctuation (:, -), new line characters, etc. This also included things that I wanted to filter out, namely links and twitter handles (Can't have my bot spamming people!).
 

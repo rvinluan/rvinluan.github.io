@@ -69,7 +69,7 @@ Here I also introduced other phrases into the mix, so instead of just "I just X,
 
 At this point it was performing acceptably but not great. I'd say it had a batting average of about a hundred, which I strived to get to at least .300: excellent for baseball players, but probably par for the course for bots (apologies for mixing my sports metaphors).
 
-More often than not it was nonsensical and grammatically incorrect, so I had to make the decision to essentially hard code what kind of phrases it would allow, n the form of parts of speech sequences (`vbg prp$ nn`). Previously I was using a system that allowed me to specify catch-alls (`vbg * nn`, which in this case would mean a gerund verb, followed by anything, followed by a noun). I got rid of this system (though not completely) and instead made it explicit about what it allowed. You can see the full list in the [source code here](https://github.com/rvinluan/status_updates/blob/master/index.js#L371).
+More often than not it was nonsensical and grammatically incorrect, so I had to make the decision to essentially hard code what kind of phrases it would allow, in the form of parts of speech sequences (`vbg prp$ nn`). Previously I was using a system that allowed me to specify catch-alls (`vbg * nn`, which in this case would mean a gerund verb, followed by anything, followed by a noun). I got rid of this system (though not completely) and instead made it explicit about what it allowed. You can see the full list in the [source code here](https://github.com/rvinluan/status_updates/blob/master/index.js#L371).
 
 After this change, I'd say the bot produces understandable sentences about 90% of the time. Whether or not they're funny or interesting or good is another discussion.
 
@@ -85,4 +85,4 @@ I also made a diagram/flow chart to explain how it works, [if you're into that k
 
 
 
-* I did code v1 in a weekend, but after all the iterations (plus the time it took me to write this blog post), it's been more like three weeks.
+\* I did code v1 in a weekend, but after all the iterations (plus the time it took me to write this blog post), it's been more like three weeks.

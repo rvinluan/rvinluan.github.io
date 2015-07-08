@@ -2,8 +2,6 @@
 published: false
 ---
 
-
-
 ###The Problem
 
 I have a group of 10 friends that I've known since we were 1-2 years old (our parents are friends). When we hang out we can be up to 14, depending on who is present plus other friends and significant others. We like to play a lot of games (video and board and all other kinds), but it's hard to find good ones mainly because 1) we're such a large group and 2) we like to keep it very casual.
@@ -26,4 +24,4 @@ For one, we didn't want to waste paper. There were 12 of us, and we didn't want 
 
 The person who is the 'traitor' does not know they are the traitor. This is part of the game. Because of this, the person who writes down the objects can't participate. But the moderator role tends to be more fun anyway, because you get to hear what people come up with and how it could apply to both things.
 
-We played it casually, but 
+We played it casually, but

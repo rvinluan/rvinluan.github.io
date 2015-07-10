@@ -3,6 +3,7 @@ published: false
 ---
 
 
+
 ###The Problem
 
 I have a group of 10 friends that I've known for a long time (our parents are friends). When we hang out we can be up to 14, depending on who is present plus other friends and significant others. We like to play a lot of games (video and board and all other kinds), but it's hard to find good ones mainly because 1) we're such a large group and 2) we like to keep it very casual.
@@ -56,7 +57,3 @@ I never tried to assign abstract concepts as objects. I'd be interested in seein
 I heard on Reddit that some people play a variant called Ghost instead of Traitor, where the traitors have blank pieces of paper instead of other objects. Unlike traitors, ghosts obviously know they're ghosts, so their goal instead is to figure out what everyone else has.
 
 Many people have pointed out to me the similarities between this game and [Spyfall](https://www.youtube.com/watch?v=YeXim1XFz5I). If you haven't played Spyfall, you definitely should.
-
-
-
-

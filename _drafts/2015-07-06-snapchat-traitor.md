@@ -4,7 +4,7 @@ published: false
 
 
 
-###The Problem
+###The Situation
 
 I have a group of 10 friends that I've known for a long time (our parents are friends). When we hang out we can be up to 14, depending on who is present plus other friends and significant others. We like to play a lot of games (video and board and all other kinds), but it's hard to find good ones mainly because 1) we're such a large group and 2) we like to keep it very casual.
 

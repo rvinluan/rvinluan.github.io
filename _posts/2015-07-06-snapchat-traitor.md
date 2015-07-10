@@ -40,13 +40,13 @@ In the best round we played, all the players got Kanye West as their object. The
 
 Here were all the clues:
 
-"He's stronger"
-"He's good at a lot of things"
-"He has quite the following"
-"Compass"
-"Some people hate him"
-"He likes to break the Internet"
-"He's a monster"
+- "He's stronger"
+- "He's good at a lot of things"
+- "He has quite the following"
+- "Compass"
+- "Some people hate him"
+- "He likes to break the Internet"
+- "He's a monster"
 
 Did you guess who was the traitor?
 

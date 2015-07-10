@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 ###The Problem
 
 I have a group of 10 friends that I've known since we were 1-2 years old (our parents are friends). When we hang out we can be up to 14, depending on who is present plus other friends and significant others. We like to play a lot of games (video and board and all other kinds), but it's hard to find good ones mainly because 1) we're such a large group and 2) we like to keep it very casual.
@@ -18,10 +19,12 @@ Because we played it via Snapchat, which I thought was interesting.
 
 As far as I know, Traitor is a folk game. That means there isn't a single canonical set of rules, and you can't buy it in a box that comes with everything you need to play. So in lieu of those things, we had to figure a few things out.
 
-For one, we didn't want to waste paper. There were 12 of us, and we didn't want to do all the work involved with setting up this game using physical materials: ripping a piece of paper into 12 pieces, writing down the same thing on all of them, finding a bowl/hat to put them in, shuffling them up, and then passing it around.
+For one, we didn't want to waste paper. There were 12 of us, and we didn't want to do all the work involved with setting up this game using physical materials: ripping a piece of paper into 12 pieces, writing down the same thing on all of them, finding a bowl/hat to put them in, shuffling them up, and then passing it around. Every round.
 
-###Some more logistical stuff
+Snapchat, besides the fact that it's hilarious to recieve a selfie along with what your object is, has one very important advantage of merely texting everyone: You can mass send a Snap to multiple people and they can't see who else is on the thread.
 
-The person who is the 'traitor' does not know they are the traitor. This is part of the game. Because of this, the person who writes down the objects can't participate. But the moderator role tends to be more fun anyway, because you get to hear what people come up with and how it could apply to both things.
+This is crucial to maintaining the central conceit of the game: nobody can know who the traitor is, even the traitor herself. For the game to work each player has to try and walk the line between saying something too specific (because this will give away that they are the traitor) and something too vague (because this will make them seem like a traitor who is trying to get by on no information). 
 
-We played it casually, but
+There's one more thing to mention if you want to be a *real* stickler: it's possible for the traitor to infer their role by assessing whether or not they recieved a notification at the same time as someone else. But we thought it through. There are two things you can do: either have everyone silence their phones and only look at them once all Snaps have been sent, or have the sender turn on Airplane mode, thus causing both Snaps to fail, and then turn Airplane mode off to resend both Snaps at the same time.
+
+

@@ -1,9 +1,8 @@
 ---
 published: true
+layout: post
+title: We Played A Party Game Via Snapchat
 ---
-
-
-
 
 ###The Situation
 

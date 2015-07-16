@@ -3,6 +3,7 @@ published: false
 ---
 
 
+
 > Hey, I've finished the wireframes in OmniGraffle.
 
 > Great, let's move on to Photoshop.
@@ -33,5 +34,6 @@ So don't set out to make a wireframe. Instead, set out to answer questions. Ques
 
 There's a second benefit as well: by limiting your exercise to a few questions you avoid catching the dreaded scope creep (or at least the design equivalent of it). Often we have to battle implicit assumptions baked into our designs that aren't exactly "ready" for the current stage the project is in: we have caveats like "ignore these, they're placeholder." By lasering in on answering a specific question, it's a lot easier to get everyone on the same page about what is a part of your design and what isn't.
 
-Of course this method isn't perfect (I'm not one to peddle "One Weird Trick"s). You can't fully answer a question like "where should the share icons go" with one tool. 
+Of course this method isn't perfect (I'm not one to peddle "One Weird Trick"s). You can't fully answer a question like "how important are the share tools" with one tool. You also can't 100% prevent other people misinterpreting your intentions; to a certain extent that's up to your communication skills (and the people on the recieving end of them). 
 
+I want to know what people think of this. I've found it helps a lot but I can only speak for my process and my experience. If you have anything to add or correct definitely let me know.

@@ -16,7 +16,7 @@ This one is [Tina Roth Eisenberg's:](https://spoken.co/t/2316675) she screens al
 
 ###3. What's the hardest time you've ever laughed?
 
-This question is the hardest on the list for most people, but it guarantees a great story for those involved. This is a standby of Pete Holmes's great podcast [You Made It Weird](http://nerdist.com/tag/you-made-it-weird/).
+This question is the most difficult on the list for most people, but it guarantees a great story if they can answer it. This is a standby of Pete Holmes's great podcast [You Made It Weird](http://nerdist.com/tag/you-made-it-weird/).
 
 ###4. If you were trapped in a bookstore for an hour, what section would you spend it in?
 

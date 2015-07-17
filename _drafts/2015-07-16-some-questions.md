@@ -3,6 +3,7 @@ published: false
 ---
 
 
+
 Here's a short list of fun questions I've found that are great for asking people, or a group of people. In general, all of them meet the following requirements: They don't require a lot of thinking, the answers are entertaining to whomever is listening, and they reveal a lot about the person answering.
 
 These are useful for small talk at parties, icebreakers when you're meeting new people (or forced to interact in a group), interview style podcasts, or even formal job interviews.
@@ -29,4 +30,4 @@ This is probably the question that meets all 3 requirements best. It also has th
 
 ###6. On a scale of 1 to 10, what are you a 10 at?
 
-Some people are afraid of bragging, but this can go either way
+Some people are afraid of bragging, but this can go either way. The best answers are the unexpectedly self-deprecating ones.

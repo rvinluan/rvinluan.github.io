@@ -8,7 +8,7 @@ These are useful for small talk at parties, icebreakers when you're meeting new 
 
 ###1. What's the story behind your shoes?
 
-Credit to [Robert Yang](https://twitter.com/radiatoryang) for this one, who used this to get all of his students to introduce themselves on the first day of his class. Surprisingly, everyone had an interesting story to tell. This is one of those things you wouldn't expect to be that interesting but turns out to be really surprising.
+Credit to [Robert Yang](https://twitter.com/radiatoryang) for this one, who used this to get all of his students to introduce themselves on the first day of his class. Surprisingly, everyone had an interesting story to tell -- usually revealing something about their tastes or backgrounds.
 
 ###2. Tell your favorite joke.
 

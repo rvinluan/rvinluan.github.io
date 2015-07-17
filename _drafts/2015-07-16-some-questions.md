@@ -2,8 +2,6 @@
 published: false
 ---
 
-
-
 Here's a short list of fun questions I've found that are great for asking people, or a group of people. In general, all of them meet the following requirements: They don't require a lot of thinking, the answers are entertaining to whomever is listening, and they reveal a lot about the person answering.
 
 These are useful for small talk at parties, icebreakers when you're meeting new people (or forced to interact in a group), interview style podcasts, or even formal job interviews.

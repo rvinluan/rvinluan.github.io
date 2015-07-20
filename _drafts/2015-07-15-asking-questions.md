@@ -19,9 +19,7 @@ If this were a 50s style instructional video, this is where the two actors playi
 
 And then I would say this: Have you ever been in this situation? Have you ever debated which design tool to use, or how it fits into your process? Have you been told, either by a well meaning colleague or a clickbait-y blog post (or gasp, marketing material) that you should use something newer and/or shinier? Have you ever gotten into a fight about it?
 
-We talk about tools too much, I think. Designers of all kinds: I design digital products (websites and apps, as I clarify to my high school friends that went into finance), but I know plenty of industrial designers (*physical* products) who will gladly spend hours conversing about how much better Rhino is than SolidWorks (or is it the other way around?).
-
-At first it might seem like the only possible outcome of the design tools boom is a paradox of choice, but their sharp rise in number is probably a response to an equally sharp rise of those new to the field who, as the field evolves, grow increasingly fed up with old methods, so we should be glad that there is no shortage of people who are eager to fill our needs. And/or take our money.
+We talk about tools too much I think. But while it would seem that there's no good outcome from arguing about them, we should acknowledge that the sharp rise in the number and variety of tools reflects an equally sharp rise in the number of people new to the field, and that we should be welcoming of amateurs and grateful for the new ideas and perspectives that come along with them.
 
 But although the space for new hi-tech design tools for things like prototyping and animation was previously wide open, it's gotten increasingly crowded in recent years, and more crowding means more overlap between what those tools do, and more overlap means more arguing, more confusion, more unrest. Luckly we're not at Vim vs Emacs levels just yet, but we do have, for example, a whole movement dedicated to being anti-psd.
 

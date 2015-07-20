@@ -21,7 +21,7 @@ And then I would say this: Have you ever been in this situation? Have you ever d
 
 We talk about tools too much I think. But while it would seem that there's no good outcome from arguing about them, we should acknowledge that the sharp rise in the number and variety of tools reflects an equally sharp rise in the number of people new to the field, and that we should be welcoming of amateurs and grateful for the new ideas and perspectives that come along with them.
 
-But although the space for new hi-tech design tools for things like prototyping and animation was previously wide open, it's gotten increasingly crowded in recent years, and more crowding means more overlap between what those tools do, and more overlap means more arguing, more confusion, more unrest. Luckly we're not at Vim vs Emacs levels just yet, but we do have, for example, a whole movement dedicated to being anti-psd.
+The flip side of the occupation of previously uncharted territory is the paradox of choice, which has certainly increased in recent years, and as the space crwods so does the overlap between what those tools do, and more overlap means more arguing, more confusion, more unrest. Luckly we're not at Vim vs Emacs levels just yet, but we do have, for example, a whole movement dedicated to being anti-psd.
 
 What can you do about it as a designer? What I've found is that it helps to change your state of mind. If you're trying to decide what tool to use, don't think about what stage of the process you're in, or what deliverable you want to get out of it. Think about what question you're trying to answer.
 

@@ -3,7 +3,6 @@ published: false
 ---
 
 
-
 > Hey, I've finished the wireframes in OmniGraffle.
 
 > Great, let's move on to Photoshop.

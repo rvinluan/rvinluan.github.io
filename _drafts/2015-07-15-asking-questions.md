@@ -21,7 +21,7 @@ And then I would say this: Have you ever been in this situation? Have you ever d
 
 We talk about tools too much, I think. Designers of all kinds: I design digital products (websites and apps, as I clarify to my high school friends that went into finance), but I know plenty of industrial designers (*physical* products) who will gladly spend hours conversing about how much better Rhino is than SolidWorks (or is it the other way around?).
 
-If you're having design tool problems I feel bad for you son, but the sharp rise in the number of tools for digital designers is probably a response to an equally sharp rise of those new to the field who, as the field evolves, grow increasingly fed up with old methods, so we should be glad that there is no shortage of people who are eager to fill our needs. And/or take our money.
+At first it might seem like the only possible outcome of the design tools boom is a paradox of choice, but their sharp rise in number is probably a response to an equally sharp rise of those new to the field who, as the field evolves, grow increasingly fed up with old methods, so we should be glad that there is no shortage of people who are eager to fill our needs. And/or take our money.
 
 But although the space for new hi-tech design tools for things like prototyping and animation was previously wide open, it's gotten increasingly crowded in recent years, and more crowding means more overlap between what those tools do, and more overlap means more arguing, more confusion, more unrest. Luckly we're not at Vim vs Emacs levels just yet, but we do have, for example, a whole movement dedicated to being anti-psd.
 

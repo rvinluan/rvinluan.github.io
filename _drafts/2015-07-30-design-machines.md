@@ -13,4 +13,4 @@ We should be definitely be afraid of ceding control of anything to a limited few
 
 But let's make two important points: one, the idea that generic Squarespace templates are diluting our collective visual culture is absurd if only because, well who do you think designs those templates? We contribute as much to that aesthetic as it does to us.
 
-Second, 
+Second, don't lament that 

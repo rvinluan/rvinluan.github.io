@@ -35,7 +35,8 @@ He gave the needle a few taps and set it down, walking around the table to prepa
 
 "Is it already working?" I inquired curiously. I don't remember what his answer was.
 
-
+    
+    
 About an hour later I can feel the nurse trying to get me off the chair and into the lobby like a college freshman hopelessly trying to prop up her blackout drunk friend so he can just get back into his dorm. 
 
 Strangely, I don't have a memory of falling asleep. I remember getting IV'd, and I remember standing up after I was done, but almost nothing in between. Crucially, I didn't have an abrupt waking up moment; mainly because, unlike my surgery as a child, I didn't come to in a completely different room. Was I ever asleep? Was I collecting memories the whole time, pain and all, and simply discarding them milliseconds afterwards? When I try to look back on that time now, it's opaque. I have small fragments of sensations but not full ones; a jab of pain here and there, a cracking sound, perhaps a question I was asked but do not remember answering. 

@@ -12,6 +12,7 @@ Anesthesia is quite similar, in my limited experience. My first encounter with i
 
 Five hours later I woke up in a recovery room. My immediate reaction was to call for my parents, whom the nurse promptly fetched for me. I didn't feel that different, and I almost didn't believe anything had happened, until I looked down and saw a small tupperware container with a tooth inside it, sitting on my lap. "Your tooth was loose, so they went ahead and took it out during the surgery. They didn't want it to fall into your throat." My tongue felt around in my mouth and confirmed the nurse's explanation. 
 
+<br />
 
 My other anesthesia story involves dental extraction as well. In the summer of 2015, after nearly a year of putting it off, I finally scheduled a visit to an oral surgeon to remove my wisdom teeth, two of which had grown in quite horizontally. Ever optimistic, I was more nervous about being novocained up before the operation began (always the most painful part of any procedure) than the extraction itself, though I was warned that with wisdom teeth there's always a risk of semi-permanent nerve damage. Also on my mind was my experience 15 years ago. I was told outright I would fall asleep and still wasn't able to remember exactly when it happened. Would it be different now that I was conscious of the fact? 
 
@@ -35,7 +36,7 @@ He gave the needle a few taps and set it down, walking around the table to prepa
 
 "Is it already working?" I inquired curiously. I don't remember what his answer was.
 
-    
+<br />
     
 About an hour later I can feel the nurse trying to get me off the chair and into the lobby like a college freshman hopelessly trying to prop up her blackout drunk friend so he can just get back into his dorm. 
 

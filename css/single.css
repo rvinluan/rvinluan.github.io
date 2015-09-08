@@ -207,6 +207,12 @@ body {
 	text-decoration: line-through;
 }
 
+#main hr {
+	margin: 5em;
+	border-color: #eee;
+	border-style: solid;
+}
+
 .sig {
 	margin-top: 2em;
 	border-top: 1px solid #999;

@@ -14,7 +14,7 @@ Right away you have an interesting tension: spend too much, and you go home with
 
 At the heart of the game is its auction mechanic. To understand how the game works, let's break down how auctions work in general. Or specifically, Open Auctions, which is what Cutthroat Kitchen uses, although [there are other types]().
 
-Open Auctions rely on two things: 1 is that the money you're bidding with has to matter to you in some way beyond the fact that it's winning you the auction. 2 is that different players have to value the same thing differently.
+Auctions rely on two things: 1 is that the money you're bidding with has to have some value beyond the fact that it's winning you the auction. 2 is that different players have to value the same thing differently.
 
 
 

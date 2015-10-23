@@ -21,4 +21,4 @@ The second thing auctions rely on is that different players have to value the sa
 
 There's a part of Cutthroat Kitchen I haven't mentioned yet, which is what happens after the start of each round but before the auctions start. First the contestants are told which dish they'll be making (usually something innocuous and American, like say, spaghetti and meatballs). Then they have 60 seconds to make a mad dash to the pantry and hastily fumble around grabbing all of the ingredients they need or anticipate they will need. They have to be out of there before the 60 seconds is up, because if they're not then Alton Brown (the host) relieves them of one of their ingredients.
 
-This is actually one of the key components of the game, all because it makes resources super tight.
+This is actually one of the key components of the game, because it makes resources super tight.

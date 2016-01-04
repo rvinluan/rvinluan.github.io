@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "I'm doing microblogs now"
 layout: post
 ---

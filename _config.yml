@@ -1,4 +1,6 @@
-name: etc
+name: etc (Robert Vinluan)
+description: Robert Vinluan's Blog
+url: http://rvinluan.github.io
 highlighter: pygments
 port: 4001
 markdown: kramdown

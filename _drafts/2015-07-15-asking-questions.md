@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 > Hey, I've finished the wireframes in OmniGraffle.
 
 > Great, let's move on to Photoshop.
@@ -14,9 +15,7 @@ published: false
 
 Let's talk about this for a second.
 
-If this were a 50s style instructional video, this is where the two actors playing designers on screen would suddenly pause, and I'd come out and introduce myself, mention that you may recognize me from such design related blog posts as etc etc. 
-
-And then I would say this: Have you ever been in this situation? Have you ever debated which design tool to use, or how it fits into your process? Have you been told, either by a well meaning colleague or a clickbait-y blog post (or gasp, marketing material) that you should use something newer and/or shinier? Have you ever gotten into a fight about it?
+You've been here before, right? You've had long debates about which design tool to use, or how it fits into your process? You've been told, countless times, either by a well meaning colleague or a clickbait-y blog post (or gasp, marketing material) that you should use something newer and/or shinier? Maybe you've even gotten into a fight about it?
 
 We talk about tools too much I think. But while it would seem that there's no good outcome from arguing about them, we should acknowledge that the sharp rise in the number and variety of tools reflects an equally sharp rise in the number of people new to the field, and that we should be welcoming of amateurs and grateful for the new ideas and perspectives that come along with them.
 

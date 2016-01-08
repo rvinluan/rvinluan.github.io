@@ -3,9 +3,9 @@ published: false
 ---
 
 
-Joel tweeted this storm earlier and I generally agree and stuff, negativity and cynicism is bad, etc etc, but one of the things that stuck out to me is that, centrally, a lot of negativity stems from our inability to critique properly. This is *not just limited to design*; I see it all over the internet.
+[My friend Joel tweeted a storm](https://twitter.com/notdetails/status/685504021549969408) earlier and I generally agree and stuff, negativity and cynicism is bad, etc etc, but one of the things that stuck out to me is that, centrally, a lot of negativity stems from our inability to critique properly. This is *not just limited to design*; I see it all over the internet.
 
-Anyway, if you want to be good at giving feedback and not being a wet blanket, here are some things that are imperative to remember:
+Anyway, because good critiquing is a skill that takes practice like any other, I thought it'd be helpful to articulate some high level principles that sometimes we forget when we're in the trenches, caught up in the rush of seeing something and having an opinion about it. So if you want to be good at giving feedback and not being a wet blanket, here are some things that are imperative:
 
 1. Your goal when giving feedback is to make the thing better.
 

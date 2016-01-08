@@ -7,7 +7,7 @@ published: false
 
 Anyway, because good critiquing is a skill that takes practice like any other, I thought it'd be helpful to articulate some high level principles that sometimes we forget when we're in the trenches, caught up in the rush of seeing something and having an opinion about it. So if you want to be good at giving feedback and not being a wet blanket, here are some things that are imperative:
 
-1. Your goal when giving feedback is to make the thing better.
+1. Your goal when critiquing is to make the thing better.
 
 2. Your goal is NOT to judge whether or not it is good.
 
@@ -23,6 +23,6 @@ If you're a person on the receiving end of that critique, how are you supposed t
 
 Here's a better version of the exact same feedback, but taking our 5 things into account: "The letters are bumping up against each other and the detail starts to disappear and become hard to read at small sizes. It works better in large sizes when the odd forms aren't distracting."
 
-The person hearing this has a lot to go off of. They can talk actually talk about *why* they chose to use it at small sizes. They can use that as a lead-in to talk about context that maybe the critiquer is unaware of. They even have some suggestings for improving it in the future, and they can talk about why that will or maybe not work.
+The person hearing this has a lot to go off of. They can talk actually talk about *why* they chose to use it at small sizes. They can use that as a lead-in to talk about context that maybe the critiquer is unaware of. They even have some suggestions for improving it in the future, and they can talk about why that will or maybe not work.
 
-Above all, the SUPER IMPORTANT thing to remember, if you take away anything from this, is that **the person recieving your critique is a HUMAN BEING.** Treat that human with respect as you should all humans. They have the same wants and hopes fears and insecurities. And **fundamentally, they have made themselves vulnerable by sharing something with you.** Don't exploit that vulnerability by giving bad critique.
+Above all, the SUPER IMPORTANT thing to remember, if you take away anything from this, is that **the person receiving your critique is a HUMAN BEING.** Treat that human with respect as you should all humans. They have the same wants and hopes fears and insecurities. And **fundamentally, they have made themselves vulnerable by sharing something with you.** Don't exploit that vulnerability by giving bad critique.

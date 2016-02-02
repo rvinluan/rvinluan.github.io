@@ -32,7 +32,7 @@ Is that it? Well yeah, but that one tiny change sends quite a few ripples:
  
 Some of those things are going to be nice for some people. Some of those things are going to piss others off. And that was just a cursory list! I'm sure there's dozens more places where this change has some sort of effect that I will never see because I don't use those aspects of Twitter.
 
-So. Was this change a good one or a bad one? I don't know. One thing I do know though is that this is the deepest I've ever explored a product feature that wasn't one that I was making. And that's mostly because I saw people talking about it and I wanted to be a part of that conversation.
+So. Was this change a good one or a bad one? I don't know. One thing I do know though is that this is the deepest I've ever explored a product feature that wasn't one that I was making, and look at how minor a change it is! And I did it all because I saw people talking about it and I wanted to be a part of that conversation.
 
 If you agree or disagree with something I wrote here, [you know where to reach me](https://twitter.com/RobertVinluan). I like talking about this stuff (especially as an alternative to complaining about this stuff).
    

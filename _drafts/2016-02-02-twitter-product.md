@@ -23,7 +23,7 @@ Is that it? Well yeah, but that one tiny change sends quite a few ripples:
  - This new lightbox view is actually a separate URL, and if you were to visit this URL directly, underneath the lightbox would be the person's profile page, but with no tweets on it.
  - If you were to then close the lightbox after visiting it directly, the person's Tweets would then load. You can also use arrows on either side of a tweet to view other tweets, from your timeline if you're there or the person's profile if you came in directly.
  - You can't right-click and open a tweet in a new tab anymore, although you can still do that by right-clicking on the timestamp.
-  - Clicking on images within the tweet, replying to a user, copying the url, sharing the tweet via dm, and reporting the user all open up a *second* lightbox on top of the first.
+ - Clicking on images within the tweet, replying to a user, copying the url, sharing the tweet via dm, and reporting the user all open up a *second* lightbox on top of the first.
  - Since you can only have one tweet open at a time, you no longer have that moment of confusion where you're not sure which tweet to click on to collapse an entire thread.
  - On the other hand though, you can no longer open a tweet and scroll or read other ones and then come back to it later.
  - If a tweet has a lot of replies, you can display them all and scroll through them, rather than hiding a few under 'view more replies' and requiring navigation to a separate 'single tweet' page.

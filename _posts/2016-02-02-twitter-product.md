@@ -5,6 +5,7 @@ layout: post
 ---
 
 
+
 I legitimately think it's kinda neat that whenever Twitter launches a new product feature, hundreds (thousands?) of people start tweeting about whether or not it's good or bad.
 
 Sure yeah, that's probably annoying to the people at Twitter, [who have no doubt spent a lot of time researching and testing said change,](http://www.theatlantic.com/technology/archive/2015/11/twitter-unfaves-itself-hearts/413917/) only to have people blow up in a matter of seconds (and then forget about it or get used to it a few days later). 
@@ -22,6 +23,7 @@ So in that spirit, let's talk about what actually happened. I'm writing this on 
 Basically, clicking on a tweet opens it up in a lightbox now, rather than expanding it in the timeline. 
 
 Is that it? Well yeah, but that one tiny change sends quite a few ripples:
+
  - This new lightbox view is actually a separate URL, and if you were to visit this URL directly, underneath the lightbox would be the person's profile page, but with no tweets on it.
  - If you were to then close the lightbox after visiting it directly, the person's Tweets would then load. You can also use arrows on either side of a tweet to view other tweets, from your timeline if you're there or the person's profile if you came in directly.
  - You can't right-click and open a tweet in a new tab anymore, although you can still do that by right-clicking on the timestamp.
@@ -37,4 +39,3 @@ Some of those things are going to be nice for some people. Some of those things 
 So. Was this change a good one or a bad one? I don't know. One thing I do know though is that this is the deepest I've ever explored a product feature that wasn't one that I was making, and look at how minor a change it is! And I did it all because I saw people talking about it and I wanted to be a part of that conversation.
 
 If you agree or disagree with something I wrote here, [you know where to reach me](https://twitter.com/RobertVinluan). I like talking about this stuff (especially as an alternative to complaining about this stuff).
-   

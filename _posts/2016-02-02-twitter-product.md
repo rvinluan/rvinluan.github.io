@@ -17,7 +17,7 @@ But it is still the most instant feedback I think anyone working in web product 
 
 So in that spirit, let's talk about what actually happened. I'm writing this on Feb 2, 2016. Twitter just did this:
 
-https://twitter.com/dead_cells/status/694587192556044289
+[https://twitter.com/dead_cells/status/694587192556044289](https://twitter.com/dead_cells/status/694587192556044289)
 
 Basically, clicking on a tweet opens it up in a lightbox now, rather than expanding it in the timeline. 
 

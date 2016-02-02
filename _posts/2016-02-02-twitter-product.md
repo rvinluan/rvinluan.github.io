@@ -1,5 +1,7 @@
 ---
 published: true
+title: "Twitter, Product, and Conversations about Product"
+layout: post
 ---
 
 

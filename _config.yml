@@ -1,6 +1,6 @@
 name: etc (Robert Vinluan)
 description: Robert Vinluan's Blog
 url: http://rvinluan.github.io
-highlighter: pygments
+highlighter: rouge
 port: 4001
 markdown: kramdown

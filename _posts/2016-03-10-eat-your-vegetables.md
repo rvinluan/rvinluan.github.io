@@ -1,5 +1,8 @@
 ---
 published: true
+title: Eat Your Vegetables
+subtitle: Some thoughts about work ethic
+layout: post
 ---
 
 I've developed somewhat of a mantra recently, as trite and embarrassing as that sounds. 

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I've developed somewhat of a mantra recently, as trite and embarrassing as that sounds. 

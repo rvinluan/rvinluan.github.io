@@ -26,6 +26,6 @@ I keep coming back to this quote:
 
 > "The question isn’t how to keep yourself motivated. It’s how to train yourself to work without it."
 
-If you're not down with the vegetables metaphor (some people like how they taste I suppose), that's another way to think about it.
+If you're not down with the vegetables metaphor, that's another way to think about it.
 
 I've always thought mantras were kind of lame, and then I realized where the word comes from. A mantra is something you say to help yourself meditate. You repeat it over and over again to focus your brain on one thing and help tune out other thoughts. It doesn't matter what it actually means. You just repeat it for the sake of repeating it. It greases the wheels, so to speak. Somehow thinking about it in that sense makes me feel better about it.

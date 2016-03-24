@@ -20,7 +20,7 @@ I knew all this in my head and yet I still found myself procrastinating and lett
 
 To just "Eat your vegetables."
 
-The vegetables are the hard things that just plain need to get done. They might be independent of the fun stuff, or they might be in the way and need to be tackled first, but either way, they can't be ignored. Importantly, they aren't immediately gratifying (at least not the way cookies are). Plus, chopping them up into smaller pieces doesn't really make them any more appealing. You can do all kinds of things to trick yourself into liking them, but after a certain point you've just gotta eat them.
+The vegetables are the hard things that need to get done. They might be independent of the fun stuff, or they might be in the way and need to be tackled first, but either way, they can't be ignored. Importantly, they aren't immediately gratifying (at least not the way cookies are). Plus, chopping them up into smaller pieces doesn't really make them any more appealing. You can do all kinds of things to trick yourself into liking them, but after a certain point you've just gotta eat them.
 
 I keep coming back to this quote:
 

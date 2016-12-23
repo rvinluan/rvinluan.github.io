@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+title: 2016 Year In Review
+subtitle: '12 months, countless side projects'
+layout: post
 ---
 I think it was my New Year's Resolution but I wanted this year to be the year that I released things. And while 2016 was a bad year in almost every other regard, I did manage to make a lot of work. So much that I had actually forgotten about a few of these. So partially for posterity and partially to make myself feel a little better, I'm going to list all the projects I released this year, a little bit about why I did them, and then do some thinking about what happened to them after I released them. 
 

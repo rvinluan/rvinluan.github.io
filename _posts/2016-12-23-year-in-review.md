@@ -108,7 +108,7 @@ I didn't blog at all basically, even though I said I would blog a lot more.
 
 I didn't have time to participate in [nanogenmo](https://github.com/NaNoGenMo/2016) this year, which I'm sad about because I had so much fun [last year](http://rvinluan.github.io/AnotherLife/).
 
-I didn't release a game in 2016, even though I started working on...5. Some of those games turned out to be too large in scope, others lost what made them interesting, others I was working on with another person and then we both sort of fizzled out. (Some are just not done yet!) This is the saddest item on my 'what I didn't do' list because I really want to make more games. For 2017 I think the lesson I'm taking away is that I need to learn to find small interesting ideas, descope, and then follow through.
+I didn't release a game in 2016, even though I started working on...5. Some of those games turned out to be too large in scope, others I failed to anything interesting in, others I was working on with another person and then we both sort of fizzled out. (Some are just not done yet!) This is the saddest item on my 'what I didn't do' list because I really want to make more games. For 2017 I think the lesson I'm taking away is that I need to learn to find small interesting ideas, descope, and then follow through.
 
 ### Plans for next  year:
 

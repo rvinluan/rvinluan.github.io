@@ -54,11 +54,41 @@ It lasted 5 episodes, mainly because progress on all my projects slowed down and
 
 ### August
 
-In August I added the musical component to Ramsophone (an arpegiator playing different chords) and launched it, and then it went really far. It was probably the most sucessful of my launches this year. The tweet did pretty well, it was on top of Product Hunt, and it got a post on [kottke.org](http://kottke.org/16/09/the-ramsophone). It got written about in [Wired](https://www.wired.com/2016/09/create-stranger-things-score-dieter-rams-inspired-web-toy/) (and then [translated into Japanese](https://twitter.com/wired_jp/status/773069516423266304)). This is the first thing I made that actually got any kind of press, so that was a fun feeling. 
+In August I added the musical component to Ramsophone (an arpegiator playing different chords) and launched it, and then it went really far. It was probably the most successful of my launches this year. The tweet did pretty well, it was on top of Product Hunt, and it got a post on [kottke.org](http://kottke.org/16/09/the-ramsophone). It got written about in [Wired](https://www.wired.com/2016/09/create-stranger-things-score-dieter-rams-inspired-web-toy/) (and then [translated into Japanese](https://twitter.com/wired_jp/status/773069516423266304)). This is the first thing I made that actually got any kind of press, so that was a fun feeling. 
 
-I feel like because it was a sucessful launch, I should talk about the work I actually did to launch it, because it is work and it's not entirely luck (although it feels a lot like it is). I posted it to Hacker News, Designer News, and Product Hunt and got people to upvote it early. Crucially though I forgot to mention in these posts the most important thing about it, which is that you have to refresh. So it probably could have gone further if I did that. I also stuck around the comment sections of these sites, engaging with people who were asking questions or giving feedback. I posted it in a bunch of private forums too (read: slack channels), to friends who I knew would be interested. I made custom images and had meta tags for social sharing. I spent a long time coming up with a tagline that would describe it and also tell people how to use it, and then I made sure that was visible when I posted about it. The day before it launched I also messaged a few people privately to test it out so I could get a handle on what they understood and what they didn't. 
+I feel like because it was a successful launch, I should talk about the work I actually did to launch it, because it is work and it's not entirely luck (although it feels a lot like it is). I posted it to Hacker News, Designer News, and Product Hunt and got people to upvote it early. Crucially though I forgot to mention in these posts the most important thing about it, which is that you have to refresh. So it probably could have gone further if I did that. I also stuck around the comment sections of these sites, engaging with people who were asking questions or giving feedback. I posted it in a bunch of private forums too (read: slack channels), to friends who I knew would be interested. I made custom images and had meta tags for social sharing. I spent a long time coming up with a tagline that would describe it and also tell people how to use it, and then I made sure that was visible when I posted about it. The day before it launched I also messaged a few people privately to test it out so I could get a handle on what they understood and what they didn't. 
 
 Honestly it probably deserves a full post-mortem, but I don't think I have that in me.
 
 ### September
+
+One random weekend in September I found myself at home with nothing to do, so I decided to cook up a bot idea I had in my head for a long time, a bot that [generated pictures of birds sitting on wires](). It ended up taking almost no time at all and then doing phenomenally well, which I attribute to the idea being immediately understandable, a bit clever, and also that it actually came out looking really great. This was a fun and unexpected thing that blew up even though I spent next to no time on it, and I still show it to people as something I'm most proud of making this year.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I made a new bot this weekend! Cheap Bots Done Quick + SVG = lots of pics of birds on wires: <a href="https://twitter.com/__birds__">@__birds__</a> <a href="https://twitter.com/hashtag/botAlly?src=hash">#botAlly</a> <a href="https://t.co/giA6DDWlNt">pic.twitter.com/giA6DDWlNt</a></p>&mdash; Robert Vinluan (@RobertVinluan) <a href="https://twitter.com/RobertVinluan/status/780136801495310337">September 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### October
+
+In October I participated in #inktober, a global event in which artists produce a different ink drawing every day for a month. Like with a lot of other things I started strong and then trailed off by the end, and although I did produce a lot of drawings I did it sporadically and unsubstantially. The point though was to practice, and it had been so long since I had drawn anything, so I consider that a success. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love drawing these boys! <a href="https://twitter.com/hashtag/thezonecast?src=hash">#thezonecast</a> <a href="https://twitter.com/hashtag/Inktober?src=hash">#Inktober</a> <a href="https://twitter.com/hashtag/Inktober2016?src=hash">#Inktober2016</a> <a href="https://twitter.com/TheZoneCast">@TheZoneCast</a> <a href="https://t.co/cCCyJyPtq0">pic.twitter.com/cCCyJyPtq0</a></p>&mdash; Robert Vinluan (@RobertVinluan) <a href="https://twitter.com/RobertVinluan/status/791053796680040448">October 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### November
+
+Partially because of despair about our country and partially because work got very busy, I didn't do any work on any side projects in November. 
+
+But I do want to mention that the reason work got busy is because we were working on releasing NYT Crosswords for Android, which a) I poured my heart and soul into and b) I've wanted to exist since way before I started working at the Times, so I'm mentioning that here. It's something I did release, after all (although I absolutely didn't do it alone 😉).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">UM HI WE KIND OF LAUNCHED AN APP <a href="https://t.co/DPUCrdOfMN">https://t.co/DPUCrdOfMN</a></p>&mdash; Robert Vinluan (@RobertVinluan) <a href="https://twitter.com/RobertVinluan/status/799276391321796608">November 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### December
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4247380053/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/transparent=true/" seamless><a href="http://robertvinluan.bandcamp.com/album/at-least-its-christmas">At Least It&#39;s Christmas by Robert Vinluan</a></iframe>
+
+# What I didn't do
+
+Ever since I became obsessed with it last fall, I've been working on a Hamilton data visualization that charts the musical's recurring musical motifs. I gathered a lot of data and wrote a bunch of d3 code, but I still have a lot of writing to do (I consider it a data journalism project) as well as more data sanitizing and formatting and I don't even really know how it's going to present itself. This was supposed to be my huge project at the end of the year but it kind of ran away from me. Other great visualizations of Hamilton's themes have since come out, so I'm excited to work on it some more in 2017.
+
 

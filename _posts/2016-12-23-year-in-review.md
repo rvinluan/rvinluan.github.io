@@ -63,6 +63,8 @@ I feel like because it was a successful launch, I should talk about the work I a
 
 Honestly it probably deserves a full post-mortem, but I don't think I have that in me.
 
+![](https://www.wired.com/wp-content/uploads/2016/09/Ramsophone-preview-1024x1019.png)
+
 ### September
 
 One random weekend in September I found myself at home with nothing to do, so I decided to cook up a bot idea I had in my head for a long time, a bot that [generated pictures of birds sitting on wires](). It ended up taking almost no time at all and then doing phenomenally well, which I attribute to the idea being immediately understandable, a bit clever, and also that it actually came out looking really great. This was a fun and unexpected thing that blew up even though I spent next to no time on it, and I still show it to people as something I'm most proud of making this year.

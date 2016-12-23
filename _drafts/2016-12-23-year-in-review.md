@@ -85,10 +85,26 @@ But I do want to mention that the reason work got busy is because we were workin
 
 ### December
 
+I'm still a little bit in disbelief that it happened, but I made a Christmas album! I've been wanting to do this for so long and I'm really glad I actually did it this year, even though it's not perfect. It came together remarkably fast and overall I'm really proud of it, but I would love to spend 2017 taking music making more seriously. This was a fun little foray into arranging and producing and releasing (still ongoing!), but I could have spent so much more time on it and there's so much more that I didn't get in that I would love to do for next year.
+
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4247380053/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/transparent=true/" seamless><a href="http://robertvinluan.bandcamp.com/album/at-least-its-christmas">At Least It&#39;s Christmas by Robert Vinluan</a></iframe>
 
 # What I didn't do
 
-Ever since I became obsessed with it last fall, I've been working on a Hamilton data visualization that charts the musical's recurring musical motifs. I gathered a lot of data and wrote a bunch of d3 code, but I still have a lot of writing to do (I consider it a data journalism project) as well as more data sanitizing and formatting and I don't even really know how it's going to present itself. This was supposed to be my huge project at the end of the year but it kind of ran away from me. Other great visualizations of Hamilton's themes have since come out, so I'm excited to work on it some more in 2017.
+I've said this to multiple people, but for every side project I end up doing, there are about 12 that I'm not doing. Here are a few of the major ones:
 
+Ever since I became obsessed with it last fall, I've been working on a Hamilton data visualization that charts the musical's recurring musical motifs. I gathered a lot of data and wrote a bunch of d3 code, but I still have a lot of writing to do (I consider it a data journalism project) as well as more data sanitizing and formatting and I don't even really know how it's going to present itself. This was supposed to be my huge project at the end of the year but it kind of ran away from me. [Other great visualizations of Hamilton](http://polygraph.cool/hamilton/) have since come out, so I'm excited to work on it some more in 2017.
 
+I haven't made a [What Year Is It? Bestof](http://whatyearisit.robertvinluan.com/2014/) in two years, although I did rewrite the app to better log what it tweets, so the Best of 2017 should be a lot easier now.
+
+I have such grand plans for original content on The Iceberg that I never got to implement, but in 2017 look out for interviews, book reviews, and a podcast probably! (I recorded an episode already but want to build up some more)
+
+I didn't blog at all basically, even though I said I would blog a lot more.
+
+I didn't have time to participate in [nanogenmo](https://github.com/NaNoGenMo/2016) this year, which I'm sad about because I had so much fun [last year](http://rvinluan.github.io/AnotherLife/).
+
+I didn't release a game in 2016, even though I started working on...5. Some of those games turned out to be too large in scope, others lost what made them interesting, others I was working on with another person and then we both sort of fizzled out. (Some are just not done yet!) This is the saddest item on my 'what I didn't do' list because I really want to make more games. For 2017 I think the lesson I'm taking away is that I need to learn to find small interesting ideas, descope, and then follow through.
+
+### Plans for next  year:
+
+Keep it up, I guess.

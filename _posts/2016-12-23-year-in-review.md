@@ -26,7 +26,7 @@ February I launched my blog for deep thoughts about super niche topics, [theiceb
 
 ### March 
 
-In March I fooled around with Tone.js a bunch, because it had been a while since I made a music + technology project and also a while since I had interacted with the Web Audio API. I built this little [blues scale toy](http://robertvinluan.com/tonejs/blues/) and [this theremin-esque thing] (http://robertvinluan.com/tonejs/theremin/). 
+In March I fooled around with Tone.js a bunch, because it had been a while since I made a music + technology project and also a while since I had interacted with the Web Audio API. I built this little [blues scale toy](http://robertvinluan.com/tonejs/blues/) and [this theremin-esque thing](http://robertvinluan.com/tonejs/theremin/). 
 
 I really wanted to make a UI for the blues scale toy; I even wanted to test out livestreaming the development of it but never got around to it, mostly because I didn't have any strong ideas.
 

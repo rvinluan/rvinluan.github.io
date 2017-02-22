@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Year Of The Iceberg
 layout: post
 ---

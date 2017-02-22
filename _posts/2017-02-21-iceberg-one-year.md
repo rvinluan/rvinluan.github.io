@@ -1,5 +1,7 @@
 ---
 published: false
+title: A Year Of The Iceberg
+layout: post
 ---
 
 Today is The Iceberg's 1 year anniversary! This post is called "A Year of The Iceberg", but that's kind of misleading. Mostly because I don't know if I can say it's been a year. Sure, I first launched [theiceberg.cool](theicberg.cool) 366 calendar days ago, but it hasn't been that many days of content, or thinking, or planning, or even any progress at all really. I'm simultaneously very proud of what I've done and also a very disappointed. So this post is only partially about what The Iceberg is after a year; it's also about what it isn't (and why), and hopefully about what it will be a year from now.

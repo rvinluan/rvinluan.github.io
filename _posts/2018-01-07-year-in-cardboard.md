@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 2017 in Cardboard
 subtitle: Every board game I played

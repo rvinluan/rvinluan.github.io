@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+title: 2017 in Cardboard
+subtitle: Every board game I played
+show_subtitle: true
 ---
 Here's a list of all the board games I played for the first time in 2017, along with an extremely short first impression. This list doesn't include games I had already played before, or the many many prototypes I played (mine and others). Also I probably missed a few!
 

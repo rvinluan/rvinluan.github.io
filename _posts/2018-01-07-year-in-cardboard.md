@@ -98,7 +98,7 @@ God what a clusterfuck. There's something cool in here but the design is so bad 
 ### Dead of Winter
 Finally! This was pretty cool. The crossroads cards are neat. We didn't have a traitor but it's still hard to win? Somewhat unsatisfying but I'll know for next time.
 ### Pitch Deck
-I'm in the Special Thanks of this game!
+Never not funny. I playtested this a bunch and it's so cool to see the final product!
 ### Wasteland Express Delivery Service
 We played completely wrong but I also wonder if it'd go smoother with fewer people. It's a bit slow but still very exciting.
 ### Secrets

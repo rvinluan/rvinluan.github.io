@@ -1,46 +1,46 @@
 ---
 published: false
 ---
-Here's a list of all the board games I played for the first time in 2017. This list doesn't include games I had already played before, or the many many prototypes I played (mine and others). Also I probably missed a few!
+Here's a list of all the board games I played for the first time in 2017, along with an extremely short first impression. This list doesn't include games I had already played before, or the many many prototypes I played (mine and others). Also I probably missed a few!
 
 ### Hey That's My Fish!
-is super cute and surprisingly thoughtful for how simple it is
+It's super cute and surprisingly thoughtful for how simple it is!
 ### Superfight
-it had its moments but ultimately it's one of those games that plays itself?
+Has its moments but ultimately it's one of those games that plays itself?
 ### Loopin' Chewie
-I had never heard of this or the original but it was surprisingly fun! Gotta try it as a drinking game
+I had never heard of this or the original but it was surprisingly fun! Gotta try it as a drinking game.
 ### The Networks
-ever so slightly multiplayer solitaire-ish and kind of long with 5p but I absolutely want to play again with fewer. 
+Very entertaining! Ever so slightly multiplayer solitaire-ish and kind of long with 5p but I absolutely want to play again with fewer. 
 ### Undercover
-folk game played with an app. Technically I've played this before but this is a specific variation on the rules that I hadn't seen that worked really well.
+Folk game played with an app. Technically I've played this before but this is a specific variation on the rules that I hadn't seen that worked really well.
 ### Bang! The Dice Game
-some really clever stuff in here. ultimately it's still pretty fast and loose and the hidden roles are sort of weak, but it goes so quickly you can't really complain.
+Some really clever stuff in here. Ultimately it's still pretty fast and loose and the hidden roles are sort of weak, but it goes so quickly you can't really complain.
 ### Deception: Murder in Hong Kong
-breezy but incredibly engaging. All the best bits of Codenames and Dixit and Mysterium et al.
+Breezy but incredibly engaging. All the best bits of Codenames and Dixit and Mysterium et al, the huge player count is a real nice luxury.
 ### Paperback
-more fun than I thought it would be! Surprisingly crunchy.
+More fun than I thought it would be! Surprisingly crunchy.
 ### Red 7
-surprisingly strategic! could be visually better and more accessible though
+Surprisingly strategic! Could be visually better and more accessible though?
 ### Flamme Rouge
-breezy! fun! It was legitimately exciting. And shorter than I thought.
+Breezy! fun! It was legitimately exciting. And shorter than I thought. Although I'm not sure I groked how to get maximum control over what I was doing?
 ### Magical Athlete
-some fantastic moments in this game. Atrocious graphics that were so disappointing because the game itself was great!
+Some fantastic moments in this game. Atrocious graphics that were so disappointing because the game itself was great!
 ### Sushi Go Party
-wow this is excellent. Makes an already great game so much better.
+Wow this is excellent. Makes an already great game so much better.
 ### Chinatown
-Pure negotiation game that is really excellent. It closes up as it goes on which was unexpected and unique! 
+Pure negotiation game that is really excellent. It closes up as it goes on (your options become more constrained) which was unexpected and unique! 
 ### Tiny Epic Galaxies
 A little too long with 5P? Lots of downtime. But the depth is there and the combos are real nice and the endgame is very fun! 
 ### Santorini
-A beautiful object! Plays very tactically but also seems to have a ton of longevity.
+A beautiful object! Plays very tactically but also seems to have a good amount of longevity.
 ### Ra
-Gets so much out of so little. An unexpectedly good push your luck mechanic???
+Gets so much out of so little. I expected this game to be mainly an auction game but it's really a push your luck game???
 ### Incan Gold
 Some really clever if unthematic mechanisms in here. It's pretty breezy but also has its tense moments.
 ### Arkham Horror LCG
 So intriguing and hard! I want to play more already. Maybe felt a bit too math-y?
 ### Honshu
-Really really solid. It takes a game to understand it though. Also what's going on with the auctions? They feel backward in that I don't have enough information to do them when we do them. Maybe they're not meant to be a real mechanic.
+Really really solid. It takes a full game to understand it though. Also what's going on with the auctions? They feel backward in that I don't have enough information to do them when we do them. Maybe they're not meant to be a real mechanic.
 ### Sherlock Holmes: Consulting Detective
 Damn this game is engaging. Makes you feel terribly inept though. Also sometimes it's hard to tell if the game itself is wrong or not. 
 ### HeckMeck
@@ -52,11 +52,11 @@ This is maybe better than Consulting Detective? Some of the mechanics feel like 
 ### Snippets
 So simple, so clever, so many satisfying moments. Some improvements to be made for sure but I can't imagine a group of people who would dislike this game.
 ### New Angeles
-a bunch of really cool moments but few and far between in a game that is really really long.
+A bunch of really cool moments but few and far between in a game that is really really long.
 ### Clank!
-a lot faster and cooler than I thought! And also a lot of room for variety. Really captures what a good Roguelike does.
+A lot faster and cooler than I thought! And also a lot of room for variety. Really captures what a good Roguelike does.
 ### Evolution: Climate
-Multiplayer solitaire to the extreme. Still somewhat engaging but really I could have played a whole nother game in between turns.
+Very multiplayer solitaire, this one. Still somewhat engaging but really I could have played a whole nother game in between turns.
 ### SHH!
 Cute! We did pretty well! Not sure how to improve though, unlike Hanabi where maybe you develop new communication methods, this seems kind of set.
 ### Win, Lose, Banana!
@@ -66,7 +66,7 @@ One of the better deckbuilding games, and I hate deckbuilding. The promotion mec
 ### Concordia
 We were playing wrong! But it was still great. Very engine-y. It's Catan but the game is the engine instead of the negotiation.
 ### ReWordable
-Still super prone to AP! But stealing words is fun. Maybe fewer ppl next time?
+Still prone to AP! But stealing words is really fun. Maybe fewer ppl next time?
 ### Word Slam
 Legendary, this one. Can't imagine it not being a new party staple a la Codenames.
 ### Arkham Horror LCG, again (expansion)
@@ -78,29 +78,29 @@ Really good! Maybe a bit too chaotic but there's some solid logical bluffing thi
 ### Not Alone
 Way less cooperative than i thought, because players's needs are super individual. We thought it would be easier I guess so the monster won pretty fast. Perhaps that's the rub of not playing collaboratively!
 ### LanderToppen!
-Way more fun than it has any right to be, as Alex would say. Stupid scoring system and joker cards feel tacked on, but the concept is so simple and engaging!
+Way more fun than it has any right to be. Stupid scoring system and joker cards feel tacked on, but the concept is so simple and engaging!
 ### Fox In The Forest
 Great replacement for Love Letter, although it's only 2 players. Dead simple but it's hard to imagine ever solving it.
 ### Barenpark
 More fun than I thought it would be! Super light and easy to do something else while playing.
 ### Yokohama
-We played wrong the first time and it was way too long. It got way better the second time though! Still has some continuity problems but minor complaints there.
+We played wrong the first time and it was way too long. It got way better the second time though! Still has some continuity problems but minor complaints there. Reminder to self to write a blog post about how noncolonialist this game feels.
 ### Twin Tin Bots
 Super satisfying and cute if not a little underbaked. I can't tell if a 4 way tie in a 6 player game is good or not?
 ### Lisboa
-I was so afraid of this game but it turned out to be more digestible and way more fun than I thought!
+I was so afraid of this game but it turned out to be more digestible and way more fun than I thought! It has that point-grab at the end that I don't like so much but it definitely feels super engaging to play through.
 ### Professor Evil and the Citadel of Time
 It's a chunky puzzle! Pretty satisfying although it has that coop dice rolling unfortunate crap.
 ### Tulip Bubble
-OMG so amazing. Such a realistic economic simulation and one of the best betting slash auction games. Also is another example of a band-aid rule that isn't actually a bandaid rule and is super important!
+OMG so amazing. Such a realistic economic simulation and one of the best betting slash auction games. Also the fact that you get money when you lose an auction is another example of a band-aid rule that isn't actually a band-aid rule and is super important!
 ### Sidereal Confluence
 God what a clusterfuck. There's something cool in here but the design is so bad and inaccessible! It's probably also overly complex, but maybe that's the point?
 ### Dead of Winter
 Finally! This was pretty cool. The crossroads cards are neat. We didn't have a traitor but it's still hard to win? Somewhat unsatisfying but I'll know for next time.
 ### Pitch Deck
-I'm in the Special Thanks of this game! =)
+I'm in the Special Thanks of this game!
 ### Wasteland Express Delivery Service
-We played completely wrong but I also wonder if it'd go smoother with fewer people. It's a bit slow but still kind of exciting.
+We played completely wrong but I also wonder if it'd go smoother with fewer people. It's a bit slow but still very exciting.
 ### Secrets
 So chaotic and fun. 5p is completely different than 8p. One is a deduction game, the other is just (welcome) sillyness.
 ### Abandon Planet
@@ -112,7 +112,7 @@ Perfect example of a game that is so solid but also bone-dry. A bit tired of tho
 ### Destination X
 Neat little puzzle here that could be adapted into a mobile game? It's sort of just trivia.
 ### Patchwork
-So quick and fast and meaty! But perhaps a bit boring after a few times? We both did really badly.
+So quick and fast and meaty! I felt simultaneously like I experienced everything it had to offer but also that I needed to play more to understand the strategy? We both did really badly.
 ### Puerto Rico
 Finally! Really solid strategy stuff. So tight and clean.
 ### Timeline: Challenge
@@ -120,9 +120,9 @@ I appreciate the different games going on here but essentially they're all the s
 ### Crosstalk
 A little plodding, the mechanics are solid but I'm not sure there were any good "moments" in this game.
 ### Food Chain Magnate
-Finally!! So heavy and we didn't finish it but it feels like it would be worth playing through: probably everyone needs to be briefed beforehand and that would help.
+Finally! So heavy and we didn't finish it but it feels like it would be worth playing through: probably everyone needs to be briefed beforehand and that would help.
 ### Clank! in Space
-Definitely improves on the original Clank! Still a bit long but dang those final few turns.
+Definitely improves on the original Clank! Still a bit long but dang those final few turns are exhilarating.
 ### Space Alert
 I can see why this is a classic. I had no idea there was a "campaign" but it really helped introduce the mechanics and stuff. Definitely want to play more.
 ### Junk Art
@@ -136,29 +136,29 @@ Feels like a chunky interesting problem that you'd only get more savvy at over t
 ### Fury of Dracula
 We won unexpectedly!! It's hard and brutal and you have to get lucky but it's so thematic and excellent.
 ### Legends of Andor
-p solid co-op. I like the campaign and how it telegraphs that you need to team up.
+P solid co-op. I like the campaign and how it telegraphs that you need to team up.
 ### Liberatores
-This game needs to tell you not to spend all your money.
-### pandemic Legacy Season 2
+This game needs to tell you not to spend all your money. Besides that I'm interested in playing again!
+### Pandemic Legacy Season 2
 It's reverse pandemic! But also it's a completely different game!
 ### Ravine
 Felt a bit too easy because we didn't go mad. Was it luck? I can see how it could get silly but it needs more enforcing. 
 ### INIS
 We messed up the rules a bit and it took a long time but it's very interesting! Very swingy in terms of how easy it is to lose your lead when other players realize you're ahead. But I guess that's the point?
 ### Mochiju
-Cute little game that has a bunch more to it than meets the eye.
-### karmaka
-Super super solid and simple. Eric managed to be much better than me at it also!
+Cute little card drafting game that has a bunch more to it than meets the eye. Or maybe it doesn't?
+### Karmaka
+Super super solid and simple. It seems like you can definitely get good at it if you played a lot.
 ### Hab & Gut
-Such an amazing stock game. It's really perfect and I need to mine it for ideas.
+Such an amazing stock game. It's really platonically perfect and I need to mine it for ideas.
 ### Chameleon
-This game is Ghost and not Traitor and it needs to be Traitor really badly. It's so close! It's v well executed though.
+This game is based off the folk game Ghost and not the folk game Traitor and it needs to be Traitor really badly. It's so close! It's v well executed though.
 ### Memoarr
 It's Memory but with just enough mechanics to make it engaging! Good drinking game.
 ### Witness
 It was everything I wanted it to be. Love the ramp up in difficulty and really want to play more!
 ### Tiefe Taschen
-Whoah this game is brilliant. DIdn't take too long, had surprising dynamics even with so few mechanics!
+Whoah this game is brilliant. Didn't take too long, had surprising dynamics even with so few mechanics!
 ### The Grizzled
 So hard!! I love the art and the fact that the people are real (and related to the game designers!)
 ### Gaia Project
